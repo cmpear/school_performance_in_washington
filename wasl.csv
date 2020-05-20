@@ -1,0 +1,1482 @@
+County,School,GradeTested,MathMetStandard,ReadingMetStandard,WritingMetStandard,ScienceMetStandard,MathTotalTested,ReadingTotalTested,WritingTotalTested,ScienceTotalTested,TotalEnrollment,PercentWhite,StudentsPerClassroomTeacher,FreeorReducedPricedMeals,AvgYearsEducationalExperience,PercentTeachersWithAtLeastMasterDegree
+Adams,Lutacaga Elementary,5,15,33,NA,3,64,66,0,70,626,13.8978,16,78.7829,6.8,33.3
+Adams,Hiawatha Elementary School,5,23,41,NA,3,74,75,0,76,621,17.7134,19,84.514,11.8,51.5
+Adams,Othello High School,10,71,150,147,34,195,195,196,180,850,25.2941,13,66.0735,12.2,43.8
+Adams,Scootney Springs Elementary,5,40,53,NA,11,76,75,0,79,602,23.7542,19,72.6283,12.3,40.6
+Adams,Lind Jr Sr High,10,14,15,13,5,22,19,21,21,112,72.3214,9,62.963,12.8,33.3
+Adams,Lind Elementary School,5,12,17,NA,7,20,22,0,22,154,66.2338,15,70.4698,15.2,40
+Adams,Ritzville High School,10,17,30,28,7,32,33,33,32,125,93.6,10,31.4516,12.8,41.7
+Adams,Ritzville Grade School,5,22,26,NA,8,27,28,0,30,252,88.4921,13,37.551,14.7,63.2
+Asotin,Educational Opportunity Center,10,1,19,17,2,34,31,29,27,166,80.1205,28,44.2708,19.3,50
+Asotin,Charles Francis Adams High School,10,91,153,140,59,188,179,179,187,788,92.132,18,33.195,15.7,69.8
+Asotin,Parkway Elementary,5,16,37,NA,8,54,54,0,54,346,95.0867,16,60.5114,15.7,38.1
+Asotin,Grantham Elementary,5,17,19,NA,15,23,23,0,23,223,90.583,13,79.3249,18.2,47.1
+Asotin,Highland Elementary,5,15,23,NA,3,34,34,0,34,301,66.7774,14,73.2899,15.3,47.6
+Asotin,Heights Elementary,5,37,51,NA,27,69,69,0,71,405,92.8395,19,26.9231,16.3,57.1
+Asotin,Asotin Jr Sr High,10,27,39,37,17,40,40,40,40,285,96.8421,16,23.5294,19.4,72.2
+Asotin,Asotin Elementary,5,21,28,NA,16,38,38,0,38,295,94.2373,13,39.7993,14.4,45.5
+Benton,Eastgate Elementary School,5,24,33,NA,12,69,69,0,68,424,60.3774,18,19.3473,8.1,43.5
+Benton,Westgate Elementary School,5,31,42,NA,5,69,69,0,72,434,52.5346,16,83.2967,11.8,57.1
+Benton,Kennewick High School,10,161,280,259,86,344,352,347,327,1585,65.489,18,45.6466,14.2,62.5
+Benton,Hawthorne Elementary School,5,24,44,NA,8,51,51,0,56,493,53.3469,17,85.4,13.1,51.7
+Benton,Washington Elementary School,5,65,81,NA,54,87,87,0,87,398,59.799,17,53.7662,7.3,62.5
+Benton,Edison Elementary School,5,31,44,NA,12,71,71,0,71,451,40.133,13,76.4706,11.7,44.1
+Benton,Vista Elementary School,5,43,60,NA,29,74,74,0,74,424,71.934,18,51.0791,19.3,78.3
+Benton,Kamiakin High School,10,306,407,404,216,442,446,449,434,1607,84.2564,22,18.3596,19.1,65.8
+Benton,Canyon View Elementary School,5,52,72,NA,31,86,87,0,87,489,64.4172,18,44.5328,19.1,74.1
+Benton,Southgate Elementary School,5,76,84,NA,48,91,91,0,91,463,30.4536,20,69.9789,13.2,65.2
+Benton,Sunset View Elementary School,5,92,109,NA,72,114,113,0,114,591,88.4941,23,13.1012,19.3,73.1
+Benton,Lincoln Elementary School,5,35,45,NA,30,53,53,0,54,431,76.5661,17,37.788,11.7,73.1
+Benton,Cascade Elementary School,5,55,84,NA,41,86,87,0,88,397,85.3904,16,42.394,10.7,56
+Benton,Amistad Elementary School,5,26,44,NA,22,72,71,0,71,497,33.1992,16,76.4815,15.2,62.5
+Benton,Ridge View Elementary School,5,74,86,NA,47,97,97,0,99,500,81.2,20,23.0326,17.5,64
+Benton,Southridge High School,10,184,292,274,128,315,327,323,295,1422,80.5204,18,25.2661,12.3,74
+Benton,Paterson Elementary School,5,3,11,NA,4,13,13,0,13,111,49.5495,14,50.4587,11.5,50
+Benton,Kiona-Benton City Elementary,5,37,62,NA,15,96,95,0,107,678,73.0088,22,53.0435,14.2,45.2
+Benton,Kiona-Benton City High,10,44,88,86,19,112,109,114,92,518,74.3243,19,38.4615,16.6,55.6
+Benton,River View High School,10,31,62,65,23,82,82,83,83,345,86.087,16,97.6812,15.7,66.7
+Benton,Finley Elementary,5,35,54,NA,21,68,68,0,68,396,69.1919,14,94.9153,19.2,65.5
+Benton,Prosser High School,10,89,157,154,58,195,206,202,191,871,56.946,21,47.8211,15.1,66.7
+Benton,Whitstran Elementary,5,24,37,NA,16,49,49,0,50,263,34.981,15,73.5507,15.5,64.7
+Benton,Prosser Heights Elementary,5,97,144,NA,75,165,165,0,171,469,53.7313,16,57.8495,17.4,58.6
+Benton,Jefferson Elementary,5,30,49,NA,25,59,60,0,59,481,76.9231,20,28.5124,15.9,45.8
+Benton,Marcus Whitman Elementary,5,36,51,NA,22,63,63,0,64,445,83.5955,16,32.0843,11.6,55.6
+Benton,Lewis & Clark Elementary School,5,67,76,NA,48,85,85,0,85,467,77.9443,11,24.6285,11,58.5
+Benton,Jason Lee Elementary School,5,48,69,NA,34,94,95,0,96,650,85.2308,17,29.9546,11,66.7
+Benton,Richland High School,10,282,410,396,185,474,468,469,452,2020,88.1683,23,13.641,14.3,68.2
+Benton,Sacajawea Elementary,5,42,50,NA,40,68,69,0,69,424,79.9528,16,28.7037,12.6,53.8
+Benton,Hanford High School,10,179,266,259,126,291,292,289,288,1304,83.819,22,14.5654,14.1,62.7
+Benton,Tapteal Elementary School,5,50,63,NA,35,82,80,0,84,509,87.6228,18,33.0798,14.4,64.3
+Benton,Badger Mountain Elementary,5,112,138,NA,78,153,154,0,153,701,81.7404,23,7.82123,11.4,64.5
+Benton,Rivers Edge High School,10,2,19,13,3,27,27,25,26,216,82.8704,NA,27.4336,NA,NA
+Benton,Wiley Elementary,5,79,84,NA,36,95,95,0,94,588,91.1565,19,6.31399,15.8,54.8
+Chelan,Manson Elementary,5,12,24,NA,4,42,41,0,41,399,32.8321,17,74.8705,12.2,45.8
+Chelan,Manson Junior Senior High School,10,19,32,33,14,44,45,46,41,281,35.9431,14,71.2177,14.8,70
+Chelan,Paul Rumburg Elementary,5,10,17,NA,5,28,28,0,28,230,64.3478,14,57.1429,11,50
+Chelan,Entiat Junior Senior High,10,13,27,25,3,31,30,29,29,183,73.7705,11,44.6328,12.2,62.5
+Chelan,Morgen Owings Elementary School,5,43,66,NA,27,86,88,0,87,515,46.0194,14,58.1081,15.3,52.8
+Chelan,Chelan High School,10,59,81,89,38,98,97,97,93,373,65.1475,14,44.4142,13.6,65.4
+Chelan,Cashmere Middle School,5,38,61,NA,27,94,93,0,95,461,63.1236,16,48.7179,13.7,60.7
+Chelan,Cashmere High School,10,40,88,85,20,95,103,100,96,505,73.8614,17,34.8089,14,62.1
+Chelan,Osborn Elementary,5,46,67,NA,34,81,81,0,81,374,67.3797,14,48.7179,17.5,65.4
+Chelan,Cascade High School,10,58,102,95,33,118,118,119,110,502,74.9004,15,38.4298,13.7,54.5
+Chelan,Westside High School,10,8,26,25,3,28,31,30,25,248,61.2903,16,47.2477,17.6,50
+Chelan,Valley Academy Of Learning,5,7,14,NA,2,16,16,0,16,175,0,58,23.1214,11.8,33.3
+Chelan,Wenatchee High School,10,218,353,302,130,446,436,440,400,2095,65.7279,19,26.0246,13.5,57.4
+Chelan,Lewis And Clark Elementary Sch,5,40,58,NA,30,72,72,0,73,422,41.2322,14,73.4554,12.7,56.7
+Chelan,Columbia Elementary School,5,37,50,NA,22,80,81,0,80,200,88.5,14,31.9048,16.3,64.3
+Chelan,Mission View Elementary School,5,50,68,NA,33,102,101,0,101,475,46.5263,13,69.0428,11.6,42.1
+Chelan,Washington Elementary School,5,54,65,NA,42,79,79,0,79,398,59.799,17,53.7662,7.3,62.5
+Chelan,Sunnyslope Elementary School,5,49,54,NA,38,62,62,0,62,441,81.8594,15,34.0564,17.5,58.6
+Chelan,Abraham Lincoln Elementary,5,38,58,NA,27,85,85,0,85,576,42.5347,15,67.0103,10,71.8
+Chelan,John Newbery Elementary,5,57,70,NA,46,93,92,0,93,535,61.8692,17,42.7203,13.5,71
+Clallam,Fairview Elementary,5,32,40,NA,19,50,50,0,50,317,87.6972,15,39.185,11.4,38.1
+Clallam,Jefferson Elementary,5,24,34,NA,18,39,40,0,39,481,76.9231,20,28.5124,15.9,45.8
+Clallam,Port Angeles High School,10,184,293,290,126,315,324,318,314,1486,86.541,19,25.6815,15.5,66.2
+Clallam,Franklin Elementary,5,38,63,NA,37,70,70,0,70,493,71.1968,17,6.07287,13.7,34.5
+Clallam,Hamilton Elementary,5,28,52,NA,22,55,62,0,65,419,87.1122,17,52.3474,14.1,54.2
+Clallam,Dry Creek Elementary,5,29,41,NA,31,49,47,0,52,389,74.8072,15,55.7592,12.8,57.7
+Clallam,Crescent School,5,4,10,NA,4,12,11,0,12,183,81.9672,10,27.4611,15.3,63.2
+Clallam,Crescent School,10,6,11,13,7,12,13,13,11,183,81.9672,10,27.4611,15.3,63.2
+Clallam,Sequim Community School,10,5,16,15,4,18,21,19,18,147,85.7143,16,31.5789,15.1,77.8
+Clallam,Sequim Senior High,10,117,203,195,79,226,236,233,188,1059,85.0803,20,24.9278,14.4,48.1
+Clallam,Helen Haller Elementary School,5,52,81,NA,33,97,99,0,106,607,82.5371,16,46.7846,15.1,64.1
+Clallam,Greywolf Elementary School,5,53,69,NA,39,79,82,0,85,553,86.0759,17,38.4342,14.8,60.6
+Clallam,Neah Bay Junior/ Senior High School,10,5,14,15,4,16,17,17,17,147,5.44218,5,61.0294,9.5,28.1
+Clallam,Clallam Bay High & Elementary,5,12,19,NA,9,25,25,0,25,189,70.8995,9,63.2124,12,42.9
+Clallam,Clallam Bay High & Elementary,10,8,11,11,5,11,11,11,11,189,70.8995,9,63.2124,12,42.9
+Clallam,Forks High School,10,26,54,54,24,73,66,68,71,328,72.561,11,37.8289,14.6,46.7
+Clallam,Forks Elementary School,5,25,50,NA,33,81,81,0,89,596,55.2013,18,67.8694,15.2,67.6
+Clark,Vancouver School of Arts and Academics,10,54,71,71,48,74,75,74,73,561,85.205,14,13.7615,17.3,77.5
+Clark,Fort Vancouver High School,10,112,221,216,52,316,318,323,278,1534,68.3181,18,55.9481,13.1,58.1
+Clark,Lincoln Elementary School,5,43,58,NA,14,78,78,0,77,431,76.5661,17,37.788,11.7,73.1
+Clark,Hough Elementary School,5,21,33,NA,8,40,39,0,40,296,73.3108,17,47.1831,9.6,76.5
+Clark,Fruit Valley Elementary School,5,12,15,NA,5,28,29,0,29,200,65,13,72.4138,11.8,73.3
+Clark,Harney Elementary School,5,21,30,NA,6,57,56,0,58,390,61.2821,18,68.1934,12.9,63.6
+Clark,Peter S Ogden Elementary,5,33,44,NA,12,73,74,0,75,451,56.541,16,76.383,6.3,46.4
+Clark,Hazel Dell Elementary School,5,29,47,NA,11,83,83,0,82,451,73.6142,20,48.3264,13.5,82.6
+Clark,Minnehaha Elementary School,5,30,57,NA,20,97,98,0,98,526,74.3346,19,48.5822,11.7,88.9
+Clark,Walnut Grove Elementary,5,42,72,NA,11,94,95,0,96,661,76.8533,20,41.2037,12.6,63.6
+Clark,Salmon Creek Elementary,5,40,42,NA,24,81,82,0,83,521,84.0691,22,23.1499,20,66.7
+Clark,Sarah J Anderson Elementary,5,59,81,NA,23,135,135,0,133,678,61.2094,21,47.4747,8.5,78.1
+Clark,Lake Shore Elementary,5,75,81,NA,65,97,97,0,99,555,83.964,20,16.6667,12.1,60.7
+Clark,Benjamin Franklin Elementary,5,18,29,NA,11,39,39,0,39,250,80.4,16,29.6154,15,62.5
+Clark,Hudson's Bay High School,10,107,250,251,47,320,327,328,294,1542,76.3294,20,45.2466,12.9,68.8
+Clark,Columbia River High,10,190,253,250,140,272,273,278,265,1325,85.8113,21,14.7268,14.5,71.9
+Clark,George C Marshall Elementary,5,28,52,NA,24,62,62,0,63,411,75.4258,19,44.2455,15.6,63.6
+Clark,Washington Elementary,5,19,32,NA,5,51,52,0,51,936,11.6453,17,88.0773,14.2,67.3
+Clark,Dwight D Eisenhower Elementary,5,32,40,NA,16,57,58,0,68,404,75.495,18,42.3773,14,68.2
+Clark,Martin Luther King Elementary,5,25,46,NA,9,70,71,0,73,103,6.79612,13,65.7895,16,50
+Clark,Harry S Truman Elementary School,5,54,72,NA,33,95,95,0,95,537,70.3911,21,50.0942,16.4,69.2
+Clark,Lewis And Clark High School,10,13,54,47,5,65,73,75,52,405,77.284,24,38.1423,15.9,64.7
+Clark,Sacajawea Elementary School,5,21,45,NA,14,66,66,0,68,309,61.165,18,27.4834,12.9,94.1
+Clark,Felida Elementary School,5,87,106,NA,50,122,124,0,121,661,88.1997,21,10.119,15.8,81.3
+Clark,Chinook Elementary School,5,89,107,NA,55,121,121,0,120,461,36.4425,16,57.9741,12,71.4
+Clark,Roosevelt Elementary School,5,39,61,NA,23,84,81,0,80,382,64.1361,15,58.2245,14.3,69.2
+Clark,Skyview High School,10,306,444,436,177,494,495,493,480,1892,87.315,21,11.5088,12.4,60
+Clark,Hockinson Heights Intermediate,5,86,139,NA,47,153,153,0,153,478,95.3975,16,16.1702,18.9,76.7
+Clark,La Center Elementary,5,63,81,NA,33,109,108,0,109,670,92.2388,24,22.5664,13.7,82.1
+Clark,La Center High School,10,53,91,89,37,97,103,102,99,476,90.3361,21,18.0645,18.2,73.9
+Clark,Green Mountain School,5,10,14,NA,9,15,15,0,15,121,92.562,20,24.1379,9.2,66.7
+Clark,Excelsior High School,10,5,9,8,0,12,11,10,10,118,91.5254,39,42.1488,13.4,100
+Clark,Hathaway Elementary,5,34,44,NA,24,58,59,0,58,444,86.036,17,54.8165,16,73.1
+Clark,Gause Elementary,5,60,69,NA,43,90,90,0,90,513,91.6179,18,30.1527,10.2,62.1
+Clark,Washougal High School,10,109,174,161,44,198,204,201,197,866,91.9169,17,26.7879,12.2,62
+Clark,Cape Horn Skye Elementary,5,30,48,NA,12,67,67,0,63,379,91.8206,21,27.4869,15.2,50
+Clark,Evergreen Internet Academy,10,5,13,15,3,11,17,15,10,92,82.6087,NA,13.1148,NA,NA
+Clark,Evergreen High School,10,260,404,402,142,499,511,503,484,2314,81.4607,16,29.9679,13.2,66.4
+Clark,Mill Plain Elementary School,5,46,68,NA,33,84,84,0,83,523,71.3193,13,47.9691,11.5,68.3
+Clark,Orchards Elementary School,5,46,68,NA,19,110,109,0,117,604,69.8675,14,69.4859,9.7,66.7
+Clark,Ellsworth Elementary School,5,41,66,NA,18,92,90,0,89,481,71.5177,14,39.0342,13.2,82.9
+Clark,Sifton Elementary School,5,41,70,NA,28,106,107,0,106,612,75.9804,15,44.6541,10.5,78.6
+Clark,Marrion Elementary School,5,39,50,NA,15,68,67,0,68,461,74.4035,14,40.7895,13.6,72.7
+Clark,Burton Elementary School,5,56,72,NA,37,99,99,0,100,571,77.4081,11,49.639,12.4,63.5
+Clark,Crestline Elementary School,5,44,62,NA,19,74,74,0,79,530,72.8302,14,55.1181,13.5,75.7
+Clark,Silver Star Elementary School,5,59,73,NA,37,96,95,0,104,547,82.9982,14,46.9274,10.9,71.8
+Clark,Sunset Elementary School,5,43,72,NA,24,93,94,0,93,567,78.836,14,42.132,10.5,67.5
+Clark,Fircrest Elementary School,5,44,58,NA,28,74,74,0,74,479,83.0898,15,45.3191,15.1,72.7
+Clark,Image Elementary School,5,103,116,NA,79,142,142,0,142,787,73.1893,20,46.0576,10.7,62.5
+Clark,Riverview Elementary School,5,59,72,NA,32,86,86,0,92,471,77.9193,13,31.3808,9.9,77.1
+Clark,Legacy High School,10,7,33,36,1,36,45,48,32,248,82.2581,NA,34.7826,NA,NA
+Clark,Mountain View High School,10,318,482,464,225,525,536,528,519,2295,79.8257,20,21.379,14.1,71.9
+Clark,Hearthwood Elementary School,5,61,80,NA,40,98,98,0,98,552,81.3406,15,44.7788,12.8,61.1
+Clark,Burnt Bridge Creek Elementary Sch,5,45,74,NA,25,110,109,0,110,641,81.9033,13,36.7127,16,76.5
+Clark,Harmony Elementary School,5,77,97,NA,41,121,121,0,119,755,77.6159,17,27.154,11.8,71.1
+Clark,Pioneer Elementary School,5,62,85,NA,34,112,112,0,121,418,46.89,17,64.0732,11,45.8
+Clark,Fishers Landing Elementary School,5,81,89,NA,63,94,94,0,94,622,70.7395,18,10.7425,13.7,57.1
+Clark,Heritage High School,10,235,417,396,131,502,512,501,480,2369,79.9493,19,34.1678,12.1,60.5
+Clark,Illahee Elementary School,5,54,71,NA,37,78,77,0,77,605,76.1983,16,24.6732,10.3,87.2
+Clark,Lacamas Heights Elementary,5,72,94,NA,54,107,109,0,109,495,92.7273,16,15.4618,13.4,74.2
+Clark,James David Zellerbach Elem Sch,5,127,180,NA,68,211,209,0,213,617,85.2512,15,19.1759,11.9,82.5
+Clark,Dorothy Fox,5,72,86,NA,47,100,100,0,99,631,86.6878,17,15.311,12.5,65.8
+Clark,Homelink Schools,5,11,21,NA,8,25,24,0,25,478,93.3054,11,8.65979,11.2,54.8
+Clark,Homelink Schools,10,8,17,14,11,20,18,20,19,478,93.3054,11,8.65979,11.2,54.8
+Clark,Cam Jr Sr High School,10,49,50,54,43,54,50,55,54,387,93.0233,NA,5.85106,NA,NA
+Clark,Homelink River,5,23,31,NA,21,33,33,0,33,445,92.809,NA,7.94702,NA,NA
+Clark,Homelink River,10,13,27,27,13,30,29,29,29,445,92.809,NA,7.94702,NA,NA
+Clark,Battle Ground High School,10,210,366,363,106,440,445,441,434,2151,92.7476,20,28.4661,13.1,60.7
+Clark,Amboy Middle School,5,60,85,NA,40,146,140,0,151,611,93.9444,17,39.6007,12.8,62.9
+Clark,Laurin Middle School,5,75,111,NA,53,152,148,0,158,583,85.7633,18,31.1111,16.3,75
+Clark,Pleasant Valley Middle,5,63,69,NA,33,106,104,0,108,450,90,17,19.2478,17.9,76.9
+Clark,Prairie High School,10,209,294,303,141,321,324,319,314,1524,90.8136,23,17.8763,16.1,56.7
+Clark,Maple Grove Middle,5,94,117,NA,62,162,162,0,182,684,90.2047,17,36.5103,13.8,80.5
+Clark,Captain Strong,5,174,237,NA,112,283,287,0,290,864,92.4769,17,39.883,12.7,68
+Clark,Summit View High School,10,12,29,28,6,30,36,31,28,391,91.3043,21,28.6353,20.1,68.4
+Clark,Ridgefield High School,10,97,149,150,83,165,163,162,153,650,88.6154,19,0,14,71.4
+Clark,South Ridge Elementary,5,53,74,NA,49,85,84,0,85,482,85.8921,18,0,13.7,88.9
+Clark,Union Ridge Elementary,5,49,69,NA,33,88,90,0,89,521,90.0192,19,0,8.5,71.4
+Columbia,Dayton High School,10,21,34,34,19,37,38,38,36,179,84.9162,8,35.6322,16.7,43.5
+Columbia,Dayton Elementary School,5,26,35,NA,20,44,44,0,42,336,84.2262,18,53.5411,20,57.9
+Cowlitz,Kessler Elementary School,5,27,44,NA,15,69,69,0,69,453,67.7704,17,76.8868,15.2,59.3
+Cowlitz,Columbia Valley Garden Elem Schl,5,49,71,NA,30,88,88,0,87,404,84.4059,18,29.2383,17.7,72.7
+Cowlitz,Saint Helens Elementary,5,7,14,NA,3,37,37,0,38,287,52.2648,17,87.0662,11.8,70.6
+Cowlitz,R A Long High School,10,94,185,197,48,264,273,269,255,1175,77.5319,22,42.0444,17.5,72.2
+Cowlitz,Olympic Elementary School,5,31,43,NA,24,61,61,0,64,370,70.2703,16,68.0328,15.6,82.6
+Cowlitz,Northlake Elementary School,5,43,54,NA,26,78,78,0,78,417,63.3094,16,61.194,13.3,76.9
+Cowlitz,Robert Gray Elementary,5,55,72,NA,22,96,96,0,96,352,70.4545,17,69.6429,10.1,71.4
+Cowlitz,Mark Morris High School,10,138,215,205,93,226,234,236,217,1154,84.662,22,27.3603,18.8,69.2
+Cowlitz,Columbia Heights Elementary,5,23,32,NA,10,54,53,0,58,361,84.4875,14,37.971,20.2,64
+Cowlitz,Mint Valley Elementary,5,31,49,NA,16,77,78,0,80,458,77.7293,16,59.7778,12.3,58.6
+Cowlitz,Toutle Lake High School,10,30,45,35,15,58,59,58,55,321,91.5888,17,22.082,20.5,89.5
+Cowlitz,Toutle Lake Elementary,5,18,36,NA,12,44,44,0,44,320,88.4375,17,34.5794,15.8,68.4
+Cowlitz,Castle Rock High School,10,45,99,98,33,118,115,116,116,505,94.0594,16,31.8458,14.2,67.7
+Cowlitz,Castle Rock Elementary,5,41,63,NA,25,114,112,0,113,601,94.3428,19,35.1735,15.2,77.4
+Cowlitz,Kalama Jr Sr High,10,69,83,78,19,96,95,96,96,608,94.5724,20,22.0513,12.4,66.7
+Cowlitz,Kalama Elem School,5,51,66,NA,38,85,86,0,86,426,92.723,16,29.8578,11.6,70.4
+Cowlitz,TEAM High School,10,10,23,28,1,23,27,28,21,59,93.2203,30,25.4237,8.1,50
+Cowlitz,Woodland High School,10,93,132,117,70,164,158,161,153,646,87.4613,19,26.08,20.3,70.6
+Cowlitz,Woodland Intermediate School,5,72,119,NA,58,163,162,0,166,486,85.3909,20,36.5462,11,58.3
+Cowlitz,Kelso High School,10,158,344,341,104,381,394,383,376,1732,82.3903,21,35.0844,13,65.9
+Cowlitz,Rose Valley Elementary,5,10,26,NA,6,33,33,0,33,151,88.7417,13,27.5641,22.5,83.3
+Cowlitz,Wallace Elementary,5,12,24,NA,11,38,38,0,40,322,56.8323,15,81.5047,17.7,76.2
+Cowlitz,Catlin Elementary,5,26,39,NA,5,54,53,0,62,321,79.7508,16,65.109,12,60
+Cowlitz,Carrolls Elementary,5,9,15,NA,5,15,15,0,16,120,88.3333,12,26.9841,16.9,70
+Cowlitz,Butler Acres Elementary,5,53,71,NA,30,86,87,0,89,384,83.8542,15,35.6962,14.1,76
+Cowlitz,Barnes Elementary,5,17,33,NA,6,38,40,0,50,355,81.4085,14,63.2979,14,84
+Cowlitz,Beacon Hill Elementary,5,47,69,NA,23,87,87,0,94,521,84.6449,19,40.7619,14.3,74.1
+Douglas,Orondo Elementary,5,8,16,NA,10,24,24,0,26,234,28.2051,17,100,16.3,78.6
+Douglas,Bridgeport Elementary,5,24,39,NA,6,57,57,0,57,360,17.2222,14,100,13.8,44
+Douglas,Bridgeport High School,10,18,28,18,3,44,42,43,41,193,13.9896,16,100,13.1,50
+Douglas,Palisades Elementary School,5,NA,NA,NA,1,9,9,0,10,39,7.69231,10,95,16.8,50
+Douglas,Eastmont Senior High,10,195,325,334,128,428,432,430,422,1306,69.9847,19,35.8705,16.2,80
+Douglas,Waterville Elementary,5,8,14,NA,5,16,16,0,16,113,85.8407,9,50,14.9,53.8
+Douglas,Waterville High School,10,9,23,23,6,28,30,28,27,217,71.8894,12,47.6852,12,50
+Ferry,Curlew Elem & High School,5,6,11,NA,4,18,18,0,18,235,88.5106,12,53.1915,9.5,55
+Ferry,Curlew Elem & High School,10,10,20,13,7,20,21,21,20,235,88.5106,12,53.1915,9.5,55
+Ferry,Orient Elem,5,4,8,NA,2,10,11,0,11,86,89.5349,17,55.814,13.8,80
+Ferry,Inchelium High School,10,2,15,13,0,16,19,17,15,77,11.6883,7,73.3333,11.5,72.7
+Ferry,Republic Elementary School,5,13,18,NA,5,29,29,0,29,203,93.1034,16,63.285,12.2,76.9
+Ferry,Republic Senior High School,10,16,33,33,5,35,35,35,36,158,94.9367,13,44.3709,14.4,66.7
+Franklin,Longfellow Elementary,5,19,28,NA,12,63,64,0,64,517,6.76983,17,88.2583,16.3,63.3
+Franklin,Pasco Senior High School,10,198,398,393,128,600,611,626,588,2997,28.028,18,61.0299,12.5,64.3
+Franklin,Emerson Elementary,5,9,22,NA,9,87,87,0,86,314,72.9299,18,63.6943,14.3,64.7
+Franklin,Mark Twain Elementary,5,34,54,NA,21,100,101,0,100,617,22.0421,17,68.8633,14.1,61.1
+Franklin,Edwin Markham Elementary,5,31,39,NA,21,52,52,0,52,298,60.4027,16,42.5993,13.7,63.2
+Franklin,Robert Frost Elementary,5,10,34,NA,6,74,74,0,74,514,22.9572,17,81.5029,12.4,66.7
+Franklin,New Horizons High School,10,1,22,16,0,32,38,36,22,179,22.905,12,70.3947,11.8,53.3
+Franklin,Ruth Livingston Elementary,5,69,89,NA,56,115,117,0,121,526,53.9924,16,41.4365,14.1,66.7
+Franklin,James McGee Elementary,5,42,67,NA,31,85,86,0,89,528,60.0379,21,32.2993,10.5,68
+Franklin,Whittier Elementary,5,23,51,NA,17,99,101,0,99,382,79.5812,17,36.87,17.2,40.9
+Franklin,Rowena Chess Elementary,5,20,35,NA,5,88,88,0,88,615,5.85366,18,89.9225,9,68.6
+Franklin,Connell Elem,5,24,36,NA,14,64,63,0,65,512,37.5,18,66.7335,12.6,34.5
+Franklin,Mesa Elem,5,11,19,NA,8,28,28,0,27,170,52.9412,12,62.7119,10.7,71.4
+Franklin,Connell High School,10,61,86,80,24,108,106,109,96,521,40.1152,15,60.5523,13.1,65.7
+Franklin,Basin City Elem,5,14,25,NA,6,34,34,0,33,377,21.4854,18,82.6203,11.7,61.9
+Franklin,Kahlotus Elem & High,10,2,8,6,2,11,11,11,11,83,87.9518,6,49.3151,12.8,53.8
+Garfield,Pomeroy Jr Sr High School,10,18,34,31,15,36,35,34,35,203,92.1182,14,37.3737,17.7,73.3
+Garfield,Pomeroy Elementary School,5,7,15,NA,7,20,21,0,24,176,92.0455,13,44.0476,21.1,35.7
+Grant,Wahluke High School,10,28,65,45,14,81,80,79,77,426,13.8498,13,82.2222,12,57.6
+Grant,Saddle Mountain Intermediate,5,29,51,NA,7,135,131,0,144,454,7.26872,18,92.093,9.3,44
+Grant,Quincy High School,10,67,106,101,57,144,140,140,143,612,36.1111,16,57.9038,7.4,56.4
+Grant,Monument Elementary,5,44,88,NA,16,164,164,0,164,502,22.1116,16,82.0359,10.6,59.4
+Grant,Warden Elementary,5,18,40,NA,10,60,60,0,60,478,21.5481,16,NA,13.3,53.3
+Grant,Warden High School,10,19,43,40,6,68,69,69,66,276,32.6087,11,NA,18.3,76
+Grant,Coulee City Elementary,5,11,12,NA,8,16,16,0,16,54,92.5926,5,49.1803,15.1,60
+Grant,Almira Coulee Hartline High School,10,20,25,25,11,25,25,25,25,93,98.9247,12,27.7778,15.4,62.5
+Grant,Soap Lake Elementary,5,10,16,NA,2,25,26,0,27,219,75.7991,12,100,10.1,27.8
+Grant,Soap Lake Middle & High School,10,5,15,14,4,23,22,23,23,236,76.6949,12,99.5885,11.2,31.6
+Grant,Red Rock Elementary,5,25,61,NA,10,110,111,0,110,706,18.9802,16,83.0925,11.8,55.6
+Grant,Royal High School,10,39,77,74,21,105,105,107,107,396,38.1313,17,63.9257,17.6,39.1
+Grant,Peninsula Elementary,5,31,45,NA,13,72,68,0,72,551,60.6171,16,65.2878,16.9,67.6
+Grant,Knolls Vista Elementary,5,39,43,NA,21,70,70,0,71,425,44.7059,15,70.1595,17.9,62.1
+Grant,Lakeview Terrace Elementary,5,27,44,NA,19,53,52,0,54,391,53.1969,18,63.2603,11.2,59.1
+Grant,MLC/Discover Elementary,5,22,38,NA,21,40,40,0,40,429,61.7716,16,43.5798,15.8,70.4
+Grant,Larson Heights Elementary,5,26,42,NA,8,53,53,0,53,360,59.1667,13,83.7607,14.4,59.3
+Grant,Garden Heights Elementary,5,62,68,NA,48,79,79,0,79,521,73.3205,20,33.7187,15.3,69.2
+Grant,Longview Elementary,5,38,58,NA,28,74,74,0,74,517,57.06,18,62.8253,14.8,78.6
+Grant,Moses Lake High School,10,189,305,299,139,376,358,353,355,1828,68.8731,23,39.3414,16.6,77.8
+Grant,North Elementary,5,28,37,NA,8,37,37,0,40,368,55.7065,14,83.9572,17.9,65.4
+Grant,Parkway School,5,78,128,NA,58,157,156,0,157,342,77.4854,18,51.4451,15.9,57.9
+Grant,Ephrata High School,10,79,123,118,70,133,134,135,137,653,81.1639,16,34.56,12.8,56.1
+Grant,Wilson Creek High,10,5,11,9,6,11,11,11,11,69,89.8551,8,54.1667,21.7,77.8
+Grant,Grand Coulee Dam Middle School,5,22,31,NA,10,37,37,0,41,222,50.9009,15,52.6786,16.3,40
+Grant,Lake Roosevelt High School,10,22,58,53,14,67,70,69,70,278,43.8849,15,32.6996,18.6,57.9
+Grays Harbor,Mcdermoth Elementary,5,30,37,NA,10,53,53,0,52,365,70.137,17,48.8,13.4,40.9
+Grays Harbor,Robert Gray Elementary,5,17,27,NA,6,40,39,0,42,352,70.4545,17,69.6429,10.1,71.4
+Grays Harbor,A J West Elementary,5,21,45,NA,8,63,64,0,66,402,61.6915,15,73.9348,12.3,76.9
+Grays Harbor,Stevens Elementary School,5,32,39,NA,7,49,48,0,48,419,71.3604,17,74.1379,15.3,54.2
+Grays Harbor,Alexander Young Elementary,5,7,10,NA,0,21,20,0,22,155,72.9032,16,62.6667,15.1,50
+Grays Harbor,Central Park Elementary,5,23,30,NA,15,36,35,0,36,225,86.6667,19,32.1586,16.1,50
+Grays Harbor,J M Weatherwax High School,10,101,208,193,58,239,242,240,222,1050,79.8095,18,39.6603,12.4,51.7
+Grays Harbor,Harbor High School,10,1,6,10,1,22,15,25,14,252,67.8571,16,71.7489,12.8,43.8
+Grays Harbor,Washington Elementary School,5,31,35,NA,15,40,41,0,41,398,59.799,17,53.7662,7.3,62.5
+Grays Harbor,Central Elementary School,5,25,34,NA,19,47,47,0,47,246,76.4228,21,60.4839,15.1,66.7
+Grays Harbor,Lincoln Elementary,5,14,31,NA,3,41,41,0,43,432,82.4074,18,33.3333,15.9,58.3
+Grays Harbor,Hoquiam High School,10,76,132,129,58,150,147,149,145,753,81.4077,19,46.6472,12.6,53.8
+Grays Harbor,North Beach High School,10,29,56,51,17,71,69,66,65,239,74.477,11,45.0216,13.6,31.8
+Grays Harbor,Pacific Beach Elementary School,5,2,5,NA,0,10,11,0,10,107,60.7477,12,54.7368,14.9,33.3
+Grays Harbor,Ocean Shores Elementary,5,17,27,NA,12,44,45,0,49,232,85.7759,15,43.9216,9.2,31.3
+Grays Harbor,Mccleary Elem,5,13,21,NA,7,33,33,0,29,284,93.662,18,0,16.4,43.8
+Grays Harbor,Montesano Jr-Sr High,10,69,107,93,25,115,116,114,110,687,91.9942,20,24.2921,14.3,67.6
+Grays Harbor,Simpson Avenue Elementary,5,53,80,NA,39,89,90,0,94,261,85.0575,15,34.981,14.4,77.8
+Grays Harbor,Elma High School,10,66,139,126,44,163,163,161,140,732,89.7541,18,29.1362,18.7,75.6
+Grays Harbor,Elma Elementary School,5,47,73,NA,25,118,118,0,118,754,81.1671,18,51.7693,15.7,62.8
+Grays Harbor,Taholah High School,10,3,10,6,0,15,16,16,11,78,3.84615,6,58.8235,12.1,42.9
+Grays Harbor,Lake Quinault Elementary,5,7,16,NA,5,24,24,0,24,107,59.8131,9,80.1802,5.7,16.7
+Grays Harbor,Cosmopolis Elementary School,5,13,20,NA,7,22,22,0,23,219,84.9315,20,37.2093,18.6,63.6
+Grays Harbor,Ocosta Junior - Senior High,10,33,50,47,14,58,60,56,54,347,0,14,50.9259,13.5,68
+Grays Harbor,Ocosta Elementary School,5,15,22,NA,9,33,31,0,34,362,0,13,63.3152,15.2,60.7
+Grays Harbor,Oakville High School,10,5,9,9,2,13,13,14,13,148,61.4865,9,72.7848,15.2,68.8
+Grays Harbor,Oakville Elementary,5,7,12,NA,1,18,18,0,18,139,55.3957,13,75.6944,13.2,63.6
+Island,Oak Harbor Elementary,5,35,51,NA,27,70,70,0,70,485,60.2062,18,39.6,15.2,55.6
+Island,Clover Valley Elementary,5,27,35,NA,18,53,52,0,53,388,71.134,18,45.6693,17,68.2
+Island,Oak Harbor High School,10,193,342,333,142,405,410,402,384,1734,71.6263,20,19.7991,11.3,60.5
+Island,Crescent Harbor Elem,5,23,35,NA,17,44,44,0,44,386,78.4974,15,50.4155,13,48
+Island,Broadview Elementary,5,63,72,NA,44,83,85,0,83,399,67.1679,16,32.3834,15.6,64
+Island,Olympic View Elem,5,31,39,NA,18,56,56,0,56,453,54.3046,17,50.1129,13.5,51.9
+Island,Hillcrest Elementary,5,51,71,NA,23,102,99,0,104,554,74.7292,19,21.5929,16.9,79.3
+Island,Coupeville High School,10,61,83,81,42,97,93,91,94,369,91.5989,14,18.306,16.2,73.1
+Island,Coupeville Elementary School,5,47,69,NA,26,95,95,0,95,466,84.7639,15,33.0629,15.6,67.7
+Island,South Whidbey High School,10,107,141,134,68,146,148,151,141,702,91.3105,17,13.5569,14.2,61
+Island,South Whidbey Intermediate School,5,84,115,NA,57,134,135,0,133,388,88.4021,16,25.8312,17.5,60
+Jefferson,Quilcene High And Elementary,5,10,10,NA,6,14,13,0,14,293,90.1024,13,49.4774,14,45.5
+Jefferson,Quilcene High And Elementary,10,12,17,17,5,22,18,21,20,293,90.1024,13,49.4774,14,45.5
+Jefferson,Chimacum Elementary School,5,41,69,NA,21,85,86,0,85,233,88.412,13,38.3333,18.1,50
+Jefferson,Chimacum High School,10,66,91,87,41,108,109,111,100,406,91.6256,16,24.4898,12.9,65.4
+Jefferson,Port Townsend High School,10,69,113,108,56,115,119,119,113,607,88.3031,19,27.5338,14.6,53.1
+Jefferson,Mountain View Elementary,5,51,77,NA,39,107,106,0,108,642,64.1745,14,44.0909,18.4,65.2
+King,African American Academy K-8,5,6,15,NA,2,41,41,0,41,434,1.38249,18,88.7255,9.5,79.2
+King,Tops K-8,5,41,51,NA,39,61,62,0,61,529,44.8015,19,20.9125,13.8,57.1
+King,Pathfinder K-8,5,18,29,NA,14,37,37,0,35,386,57.772,15,33.1606,9,68
+King,Interagency Programs,10,0,7,6,NA,11,13,16,9,514,22.5681,NA,63.5185,NA,NA
+King,Home School Resource Center,10,3,9,10,1,10,12,12,10,106,88.6792,NA,18.5567,NA,NA
+King,Salmon Bay School,5,33,41,NA,33,43,43,0,43,597,79.062,17,7.80731,9.2,62.9
+King,The Center School,10,46,60,61,43,64,62,66,64,280,76.0714,18,11.4391,8.8,75
+King,Green Lake Elementary School,5,27,34,NA,24,37,37,0,36,245,66.5306,13,26.6667,15.4,52.6
+King,Hay Elementary School,5,51,57,NA,46,60,59,0,60,456,72.3684,17,13.5556,12.4,59.3
+King,Madrona K-8,5,7,31,NA,2,48,48,0,48,445,14.6067,19,64.823,10,70.8
+King,Beacon Hill Elementary School,5,30,36,NA,22,60,60,0,60,365,8.76712,14,68.2451,15.5,70.4
+King,Stevens Elementary School,5,47,51,NA,35,64,64,0,70,419,71.3604,17,74.1379,15.3,54.2
+King,John Stanford International Elementary,5,41,54,NA,27,59,57,0,57,393,44.5293,19,23.5602,11.1,61.9
+King,Brighton Elementary School,5,15,21,NA,4,37,38,0,38,307,1.62866,16,77.2109,14.6,47.4
+King,Coe Elementary School,5,43,52,NA,40,58,58,0,59,419,63.4845,17,20,12.8,50
+King,Whittier Elementary School,5,59,66,NA,48,68,69,0,69,412,81.5534,22,6.74699,13,31.6
+King,Whitworth Elementary School,5,7,18,NA,5,37,39,0,38,231,1.7316,14,83.1858,18.3,58.8
+King,Emerson Elementary School,5,14,28,NA,5,43,43,0,43,561,54.7237,19,52.8399,13.5,43.3
+King,Van Asselt Elementary School,5,27,54,NA,15,78,78,0,78,457,1.31291,17,80.0439,12.1,51.9
+King,Leschi Elementary School,5,15,31,NA,13,42,41,0,42,206,2.91262,16,75.2212,12.7,46.2
+King,Greenwood Elementary School,5,29,35,NA,11,45,46,0,42,381,49.8688,21,49.866,15.2,61.1
+King,Adams Elementary School,5,31,40,NA,18,52,51,0,51,354,53.1073,19,36.9942,13.2,52.6
+King,Gatewood Elementary School,5,14,29,NA,4,43,43,0,43,274,60.5839,16,32.7138,6.6,52.9
+King,Thurgood Marshall Elementary,5,7,19,NA,2,26,26,0,29,292,3.08219,13,85.2601,9.5,68.2
+King,West Woodland Elementary School,5,29,35,NA,25,45,44,0,45,347,75.7925,19,11.7994,12.7,33.3
+King,John Muir Elementary School,5,22,36,NA,16,44,45,0,46,290,9.31034,16,65.7439,10.5,61.1
+King,Alki Elementary School,5,25,31,NA,17,37,37,0,37,337,63.2047,17,30.2053,15.1,50
+King,Franklin High School,10,100,186,184,38,211,217,209,203,1482,10.1889,21,44.9455,11.8,59.7
+King,Lawton Elementary School,5,38,43,NA,28,45,45,0,45,316,70.8861,19,18.8088,17,58.8
+King,Concord Elementary School,5,8,18,NA,3,31,33,0,38,286,10.8392,14,88.8889,10.6,57.1
+King,McGilvra Elementary School,5,28,36,NA,24,39,40,0,40,254,71.2598,14,9.6,12.7,83.3
+King,Martin Luther King Elementary,5,2,5,NA,2,10,11,0,10,103,6.79612,13,65.7895,16,50
+King,Broadview-Thomson Elementary School,5,42,53,NA,30,67,67,0,67,480,41.25,15,42.1589,18,41.9
+King,Ballard High School,10,244,325,302,167,350,351,348,343,1672,62.2608,20,23.8806,13.5,65.1
+King,West Seattle High School,10,112,225,210,85,246,268,264,246,1298,46.7643,22,32.0988,14.4,56.7
+King,Cooper Elementary School,5,8,11,NA,2,25,25,0,25,251,18.3267,16,74.0741,16.7,43.8
+King,Olympic View Elementary School,5,42,56,NA,30,62,62,0,65,366,29.5082,15,57.7128,9.1,50
+King,Highland Park Elementary School,5,25,44,NA,12,72,71,0,71,425,14.3529,15,78.8732,15.4,58.6
+King,Roosevelt High School,10,269,334,325,198,356,360,354,348,1658,58.7455,21,21.5916,14.6,65.4
+King,Garfield High School,10,248,314,322,217,349,348,351,341,1595,43.1348,24,22.8923,12,60.6
+King,Gatzert Elementary School,5,19,31,NA,13,47,47,0,50,348,4.5977,14,87.9552,11.8,64
+King,Dunlap Elementary School,5,16,48,NA,5,63,63,0,67,407,1.7199,17,82.8087,15.8,62.5
+King,Montlake Elementary School,5,36,38,NA,27,37,38,0,38,247,63.9676,15,15.9836,13,75
+King,Maple Elementary School,5,50,58,NA,34,68,70,0,73,428,7.24299,18,64.5238,14.7,58.3
+King,Bryant Elementary School,5,67,71,NA,57,78,78,0,78,513,69.9805,19,8.87574,16.1,48.1
+King,Cleveland High School,10,19,60,56,7,82,80,80,79,669,7.92227,19,66.8367,16,82.9
+King,Laurelhurst Elementary School,5,45,52,NA,32,50,52,0,53,425,72.7059,17,14.554,12.9,60
+King,Daniel Bagley Elementary School,5,20,31,NA,13,36,36,0,36,293,70.3072,18,24.7492,8.4,50
+King,Loyal Heights Elementary School,5,35,40,NA,26,45,45,0,45,364,84.8901,17,11.2948,12.9,66.7
+King,T T Minor Elementary School,5,8,11,NA,6,22,22,0,23,179,7.82123,13,82.6291,5.5,64.3
+King,High Point Elementary School,5,6,16,NA,4,22,23,0,22,155,3.87097,13,91.0828,13.2,50
+King,View Ridge Elementary School,5,48,55,NA,44,60,60,0,60,521,61.2284,16,54.6139,17.5,46.9
+King,Arbor Heights Elementary School,5,35,49,NA,26,65,64,0,71,328,59.1463,16,38.9571,14.4,40
+King,Lafayette Elementary School,5,57,64,NA,36,74,75,0,71,453,68.8742,20,12.2494,17.8,56.5
+King,Catharine Blaine K-8,5,37,46,NA,21,55,56,0,56,506,72.1344,19,18.0198,10.6,59.3
+King,John Rogers Elementary School,5,34,37,NA,23,47,47,0,47,290,61.3793,16,33.9041,9.6,61.1
+King,Olympic Hills Elementary School,5,10,24,NA,8,27,27,0,27,211,21.8009,12,74.2857,10.8,58.8
+King,Viewlands Elementary School,5,10,13,NA,5,24,24,0,25,203,52.2167,15,52.7778,15.6,64.3
+King,Wedgwood Elementary School,5,44,47,NA,32,50,50,0,49,358,58.3799,18,14.4444,10.3,60
+King,Northgate Elementary School,5,9,15,NA,3,30,31,0,30,235,12.766,17,80.6452,15.1,35.7
+King,Sacajawea Elementary School,5,26,27,NA,15,37,34,0,34,309,61.165,18,27.4834,12.9,94.1
+King,Sealth High School,10,59,95,89,29,131,134,135,124,915,24.6995,20,59.6871,14.3,62.2
+King,Roxhill Elementary School,5,15,32,NA,7,46,46,0,47,281,17.4377,14,77.551,17.6,80
+King,North Beach Elementary School,5,27,34,NA,24,35,34,0,35,262,79.3893,19,11.9231,9.1,42.9
+King,Ingraham High School,10,119,181,173,75,204,211,213,201,1190,36.4706,19,43.2065,13.5,67.7
+King,Rainier Beach High School,10,18,40,40,2,65,65,65,64,529,6.61626,20,64.497,11,65.4
+King,Graham Hill Elementary School,5,22,28,NA,13,58,57,0,57,325,19.6923,15,52.2599,12.9,45.5
+King,Rainier View Elementary School,5,9,19,NA,5,43,43,0,43,413,55.9322,19,27.4314,8.5,68.2
+King,Schmitz Park Elementary School,5,37,45,NA,33,49,49,0,49,326,79.4479,20,10.1227,12.8,18.8
+King,Kimball Elementary School,5,52,67,NA,29,84,85,0,86,520,20.9615,19,54.491,14.6,57.1
+King,Nathan Hale High School,10,149,209,212,112,224,230,231,228,1089,61.5243,20,17.8744,12.1,70.4
+King,Fairmount Park Elementary School,5,4,11,NA,1,20,20,0,20,178,25.2809,13,76.0417,11.2,28.6
+King,Wing Luke Elementary School,5,34,42,NA,25,52,51,0,54,282,3.19149,16,71.2329,14.1,55.6
+King,Sanislo Elementary School,5,28,43,NA,20,53,53,0,55,317,40.0631,19,45.1104,18.1,52.9
+King,Lowell Elementary School,5,108,109,NA,106,109,109,0,109,267,79.7753,18,30.7143,9.6,66.7
+King,B F Day Elementary School,5,27,30,NA,16,38,38,0,38,262,51.5267,15,42.5101,18.7,58.8
+King,Dearborn Park Elementary School,5,7,16,NA,2,43,43,0,47,259,4.2471,14,78.1132,10.7,36.8
+King,Nova High School,10,19,32,29,13,33,33,33,32,282,72.695,20,15.3257,7.1,57.1
+King,Summit K-12,5,19,27,NA,8,37,39,0,38,658,51.3678,17,44.5113,11.8,65.8
+King,Summit K-12,10,10,27,23,7,28,30,30,30,658,51.3678,17,44.5113,11.8,65.8
+King,John Marshall High School,10,NA,NA,7,NA,7,8,11,8,170,30.5882,9,59.3407,8.6,72.2
+King,Orca (Columbia),5,8,17,NA,6,22,23,0,22,255,48.2353,17,35.1779,15.5,53.3
+King,Hawthorne Elementary School,5,20,40,NA,4,63,63,0,63,493,53.3469,17,85.4,13.1,51.7
+King,Internet Academy,10,6,15,16,5,18,17,19,18,302,81.1258,NA,3.27869,NA,NA
+King,Federal Way Public Academy,10,41,44,44,35,45,44,44,45,308,48.3766,24,12.0915,12.2,76.9
+King,Federal Way Senior High School,10,133,263,250,64,322,322,314,278,1606,46.3263,20,28.5714,11.3,58
+King,Lakeland Elementary School,5,39,53,NA,16,57,57,0,57,391,67.5192,19,25.5102,9,52.4
+King,Mirror Lake Elementary School,5,28,48,NA,19,58,58,0,58,419,35.7995,16,46.506,11.6,33.3
+King,Star Lake Elementary School,5,40,51,NA,23,68,68,0,68,432,50.2315,17,28.9888,9.4,24
+King,Woodmont Elementary School,5,46,55,NA,32,60,61,0,60,382,43.4555,18,27.7635,11.9,42.9
+King,Panther Lake Elementary School,5,38,61,NA,33,69,70,0,69,419,42.0048,17,35.2246,12,54.2
+King,Olympic View Elementary School,5,23,39,NA,5,53,51,0,51,366,29.5082,15,57.7128,9.1,50
+King,Adelaide Elementary School,5,46,63,NA,24,74,74,0,74,422,50.237,18,32.2581,15.4,45.8
+King,Camelot Elementary School,5,26,44,NA,15,55,54,0,55,294,67.3469,16,43.4505,11.1,55.6
+King,Sunnycrest Elementary School,5,21,34,NA,14,40,40,0,42,415,28.1928,15,49.7573,12.1,44.4
+King,Lake Grove Elementary School,5,37,57,NA,11,73,73,0,73,440,35.6818,18,47.235,9.6,36
+King,Valhalla Elementary School,5,55,77,NA,29,86,89,0,91,486,45.0617,18,37.6782,11.6,48.1
+King,Wildwood Elementary School,5,28,50,NA,12,67,68,0,68,484,36.157,16,39.7566,12.8,38.7
+King,Thomas Jefferson High School,10,246,359,335,162,397,400,404,396,1931,58.6225,22,19.3323,11.9,48.3
+King,Nautilus Elementary School,5,41,61,NA,17,76,75,0,75,466,48.927,19,23.4801,11.4,41.7
+King,Mark Twain Elementary School,5,36,54,NA,20,88,90,0,90,541,17.9298,17,55.2581,12.7,61.3
+King,Twin Lakes Elementary School,5,41,58,NA,12,73,70,0,74,379,64.3799,19,22.8117,11.5,45
+King,Brigadoon Elementary School,5,30,51,NA,11,59,59,0,59,376,55.3191,18,26.6846,13.9,47.6
+King,Lake Dolloff Elementary School,5,47,59,NA,28,72,73,0,73,469,55.0107,17,31.0345,13.3,35.7
+King,Decatur High School,10,171,290,292,111,333,328,332,301,1699,56.0918,23,19.2794,13.5,53.4
+King,Silver Lake Elementary School,5,43,59,NA,17,70,70,0,70,449,37.8619,19,35.4767,12.3,37.5
+King,Sherwood Forest Elementary School,5,56,80,NA,28,98,99,0,99,566,53.8869,20,25.7391,12.8,51.7
+King,H. S. Truman High School,10,12,31,35,5,44,39,41,36,182,67.033,15,31.4103,9.6,50
+King,Rainier View Elementary School,5,54,68,NA,21,76,76,0,76,413,55.9322,19,27.4314,8.5,68.2
+King,Green Gables Elementary School,5,47,56,NA,35,63,64,0,64,406,63.3005,18,17.7778,15,72.7
+King,Enterprise Elementary School,5,41,65,NA,24,77,77,0,79,451,59.867,17,26.5351,15.4,63
+King,Meredith Hill Elementary School,5,66,79,NA,48,86,88,0,90,452,71.4602,17,19.6507,13.3,66.7
+King,Byron Kibler Elementary School,5,36,60,NA,23,72,73,0,73,498,87.1486,18,26.6129,16.5,64.3
+King,Enumclaw Sr High School,10,212,352,324,135,380,395,387,359,1692,92.0804,21,14.5432,11.8,62
+King,Black Diamond Elementary,5,22,36,NA,9,40,40,0,40,287,91.6376,14,26.7857,13.9,70
+King,Westwood Elementary School,5,44,60,NA,33,74,74,0,76,394,82.9949,15,23.4414,18.1,46.2
+King,Southwood Elementary School,5,58,109,NA,45,129,129,0,130,434,86.8664,16,27.4157,12.4,67.9
+King,Sunrise Elementary,5,17,21,NA,8,28,28,0,28,511,94.5205,16,12.8107,13.2,65.6
+King,Lakeridge Elementary School,5,104,109,NA,72,114,113,0,114,538,80.4833,14,0.907441,10.4,65.8
+King,Mercer Island High School,10,321,369,362,283,366,374,375,355,1460,77.8767,16,0.938967,12.2,79.1
+King,Island Park Elementary,5,90,92,NA,70,95,96,0,98,520,75.9615,14,1.88679,16.3,63.9
+King,West Mercer Elementary,5,122,122,NA,84,133,133,0,134,606,76.7327,14,2.41935,13.1,67.4
+King,Mount View Elementary,5,27,46,NA,9,81,81,0,80,621,15.781,19,72.1781,9.7,53.1
+King,Highline High School,10,102,220,196,65,260,265,270,260,1510,55.8278,22,37.4377,16,48.5
+King,Des Moines Elementary,5,27,47,NA,11,61,61,0,62,413,57.8692,21,39.5631,12.5,40
+King,White Center Heights Elementary,5,21,34,NA,6,62,61,0,61,493,12.7789,17,83.7573,10.6,44.8
+King,Hazel Valley Elementary,5,32,59,NA,13,95,95,0,95,612,29.7386,20,61.0435,11.5,60
+King,McMicken Heights Elementary,5,26,39,NA,13,69,69,0,69,450,29.5556,21,69.877,9.2,38.1
+King,Beverly Park Elem at Glendale,5,18,32,NA,6,73,73,0,73,538,23.7918,20,76.2808,10.9,51.9
+King,Shorewood Elementary,5,18,27,NA,8,42,42,0,42,322,50,19,50.6061,9,70.6
+King,Gregory Heights Elementary,5,33,65,NA,18,82,84,0,82,547,57.2212,19,41.4591,12.1,41.4
+King,Cedarhurst Elementary,5,13,34,NA,2,46,46,0,45,388,28.0928,17,72.5962,5.8,65.2
+King,Bow Lake Elementary,5,21,33,NA,12,53,54,0,54,390,26.6667,16,69.0998,14.6,72
+King,Midway Elementary,5,8,26,NA,3,56,57,0,57,495,22.8283,18,74.6331,11.3,37
+King,Southern Heights Elementary,5,20,29,NA,3,41,42,0,40,307,34.202,17,62.7586,10.7,61.1
+King,Marvista Elementary,5,60,74,NA,39,84,86,0,85,550,76.3636,21,15.2212,14.4,42.3
+King,Evergreen High School,10,87,184,180,48,243,252,252,237,2314,81.4607,16,29.9679,13.2,66.4
+King,Hilltop Elementary,5,18,38,NA,7,70,70,0,70,481,74.6362,18,20,13,66.7
+King,Madrona Elementary,5,17,39,NA,7,78,79,0,78,647,14.8377,21,82.4176,8,54.8
+King,Mount Rainier High School,10,128,213,198,94,235,239,239,228,1314,62.9376,23,28.4795,15.4,51.7
+King,Parkside Elementary,5,34,53,NA,22,79,79,0,79,514,35.6031,21,59.2453,10,50
+King,Seahurst Elementary School,5,20,39,NA,5,65,66,0,65,597,30.6533,19,67.193,10.4,53.1
+King,Tyee High School,10,57,152,118,29,217,221,223,214,1142,34.9387,20,52.7154,8.8,68.4
+King,Valley View Elementary,5,20,32,NA,11,34,34,0,34,213,63.8498,16,29.6117,14.5,69.2
+King,Vashon Island High School,10,88,118,119,64,122,125,126,121,527,88.8046,16,9.4697,14.5,64.7
+King,Chautauqua Elementary,5,54,66,NA,34,86,85,0,87,632,85.7595,17,14.3079,15.4,56.8
+King,Home Program @ Honeydew,10,4,NA,NA,NA,10,7,9,7,137,67.1533,NA,7.91367,NA,NA
+King,Black River High School,10,4,10,7,1,20,18,20,20,130,30,10,61.0169,11.9,38.5
+King,Bryn Mawr Elementary School,5,14,29,NA,11,56,56,0,56,362,14.9171,13,58.9674,11.7,77.8
+King,Renton Senior High School,10,83,171,173,34,239,245,235,223,1083,19.2982,20,47.8901,10.3,50.9
+King,Kennydale Elementary School,5,48,58,NA,33,76,76,0,76,420,52.1429,18,33.4112,11.9,69.6
+King,Highlands Elementary School,5,28,56,NA,25,94,93,0,94,610,30.9836,18,64.5733,8.9,61.8
+King,Lakeridge Elementary School,5,12,27,NA,5,50,51,0,49,538,80.4833,14,0.907441,10.4,65.8
+King,Campbell Hill Elementary School,5,13,32,NA,7,73,73,0,73,361,9.9723,16,71.1864,16.9,63.6
+King,Cascade Elementary School,5,30,54,NA,20,78,78,0,78,397,85.3904,16,42.394,10.7,56
+King,Hazelwood Elementary School,5,51,67,NA,35,78,78,0,78,610,73.9344,20,31.9805,11.6,71
+King,Renton Park Elementary School,5,35,50,NA,22,82,82,0,83,413,40.678,16,46.5721,10.3,65.4
+King,Maplewood Heights Elementary School,5,54,66,NA,41,96,95,0,98,494,59.1093,15,29.4239,13,54.5
+King,Benson Hill Elementary School,5,45,72,NA,30,91,89,0,95,529,51.0397,17,43.5115,14.7,67.7
+King,Hazen Senior High School,10,161,249,242,85,305,306,302,296,1278,61.2676,18,28.4711,13.9,45.7
+King,Sierra Heights Elementary School,5,42,62,NA,30,88,88,0,88,566,46.8198,18,35.6048,15.1,56.3
+King,Tiffany Park Elementary School,5,34,50,NA,22,68,69,0,68,482,45.6432,17,56.5844,7.8,72.4
+King,Talbot Hill Elementary School,5,44,56,NA,18,76,76,0,77,484,34.5041,17,34.5679,13.4,46.4
+King,Lindbergh Senior High School,10,107,209,204,74,272,274,268,258,1242,53.6232,21,34.9787,13.9,54.2
+King,Bellevue High School,10,277,354,347,188,359,370,367,350,1510,67.8808,20,11.4035,9.2,61.3
+King,Enatai Elementary School,5,39,52,NA,36,54,56,0,57,412,64.0777,15,19.4175,8.5,71.4
+King,Clyde Hill Elementary,5,74,78,NA,39,87,87,0,87,519,63.3911,21,8.06142,10.2,52
+King,Eastgate Elementary School,5,52,56,NA,42,69,68,0,70,424,60.3774,18,19.3473,8.1,43.5
+King,Stevenson Elementary,5,65,77,NA,56,91,91,0,90,514,22.5681,16,42.7767,5.6,57.6
+King,Woodridge Elementary,5,45,51,NA,34,59,59,0,58,383,54.3081,17,25.6997,8.4,52.2
+King,Phantom Lake Elementary,5,35,43,NA,23,57,57,0,57,420,52.619,16,29.3362,9.7,57.7
+King,Puesta del Sol Elementary School,5,40,57,NA,30,60,60,0,60,440,68.6364,21,5.68182,14.2,76.2
+King,Lake Hills Elementary,5,37,47,NA,21,64,63,0,66,417,40.7674,13,59.8624,6.4,61.3
+King,Sammamish Senior High,10,140,230,210,102,265,265,263,257,1223,55.8463,18,30.303,9.4,52.2
+King,Sherwood Forest Elementary,5,23,30,NA,16,35,37,0,38,330,42.1212,13,49.8462,9.5,46.2
+King,Medina Elementary School,5,65,71,NA,51,73,73,0,73,433,73.2102,17,2.92793,8.8,53.8
+King,Newport Heights Elementary,5,86,98,NA,63,108,109,0,109,564,59.5745,18,17.801,7.8,62.5
+King,Newport Senior High School,10,319,393,392,250,395,400,399,389,1518,55.4677,21,8.84126,12.2,62
+King,Interlake Senior High School,10,113,156,150,82,177,177,176,174,792,59.4697,15,33.1586,8.6,57.7
+King,Ardmore Elementary School,5,23,32,NA,18,43,43,0,43,280,37.1429,15,46.0481,6.9,73.7
+King,Spiritridge Elementary School,5,42,52,NA,41,59,57,0,60,299,64.8829,15,24.5902,6.6,35
+King,Bennett Elementary School,5,54,61,NA,45,69,69,0,69,401,63.0923,18,11.1675,6.1,63.6
+King,Cherry Crest Elementary School,5,49,55,NA,38,61,61,0,62,382,70.6806,17,3.97878,9.7,72.7
+King,Somerset Elementary School,5,95,99,NA,75,113,113,0,114,597,39.3635,19,5.15298,12.6,54.8
+King,Foster Senior High School,10,58,119,124,24,167,170,165,142,786,35.2417,19,50.5051,10.8,61
+King,Cascade View Elementary,5,18,35,NA,10,63,64,0,71,614,88.2736,17,18.0534,11.9,36.1
+King,Tukwila Elementary,5,18,40,NA,17,71,70,0,71,475,29.8947,14,58.9691,10.4,42.9
+King,Thorndyke Elementary,5,17,27,NA,13,54,54,0,55,441,23.356,16,74.3649,11,75
+King,Carnation Elementary School,5,30,58,NA,26,67,67,0,67,416,81.25,17,20.6731,13.9,37.5
+King,Cherry Valley Elementary School,5,47,60,NA,27,88,88,0,89,448,81.0268,19,13.2321,13.8,52.2
+King,Cedarcrest High School,10,134,181,180,94,213,217,214,198,866,90.7621,21,10.3488,13.7,50
+King,Stillwater Elementary,5,48,68,NA,29,84,84,0,84,480,90.4167,19,10.4082,14.8,52
+King,Washington Elementary School,5,25,32,NA,11,57,57,0,57,398,59.799,17,53.7662,7.3,62.5
+King,Terminal Park Elementary School,5,55,64,NA,40,86,86,0,86,413,64.891,18,60.628,9.7,60.9
+King,West Auburn Senior High School,10,7,32,28,2,48,49,51,32,262,64.1221,17,47.0588,14.9,66.7
+King,Auburn Senior High School,10,144,334,333,84,402,414,417,361,1985,70.7305,20,29.4748,13,59.4
+King,Dick Scobee Elementary School,5,30,40,NA,10,68,68,0,68,428,59.5794,18,55.5305,9,50
+King,Pioneer Elementary School,5,24,52,NA,16,76,75,0,76,418,46.89,17,64.0732,11,45.8
+King,Chinook Elementary School,5,29,37,NA,12,72,72,0,73,461,36.4425,16,57.9741,12,71.4
+King,Lea Hill Elementary School,5,70,88,NA,43,124,124,0,124,634,65.7729,19,48.2496,10,75.8
+King,Gildo Rey Elementary School,5,67,82,NA,53,92,93,0,94,654,58.4098,19,45.4681,9.1,58.8
+King,Evergreen Heights Elementary,5,36,46,NA,19,56,56,0,56,343,62.0991,19,45.3488,16,72.2
+King,Alpac Elementary School,5,45,71,NA,29,95,97,0,96,517,60.3482,18,51.6068,10,42.9
+King,Lake View Elementary School,5,50,72,NA,36,97,98,0,97,460,80.8696,18,22.8571,11.8,65.4
+King,Hazelwood Elementary School,5,69,85,NA,40,102,102,0,106,610,73.9344,20,31.9805,11.6,71
+King,Ilalko Elementary School,5,78,103,NA,72,122,122,0,123,637,71.2716,17,35.5039,13.3,52.6
+King,Auburn Riverside High School,10,208,343,332,131,389,397,392,342,1706,77.0223,20,19.8441,12.9,58.8
+King,Tahoma Senior High School,10,327,447,437,277,468,477,475,466,1506,91.6335,17,7.84584,14.5,69.7
+King,Lake Wilderness Elementary,5,123,141,NA,88,177,177,0,177,927,87.8101,17,17.4636,12.4,68.5
+King,Shadow Lake Elementary,5,58,58,NA,50,81,80,0,81,541,82.2551,17,22.8519,15.3,71
+King,Maple Valley High School,10,2,12,8,0,12,16,16,12,91,92.3077,23,17.5258,14.1,50
+King,Rock Creek Elementary,5,105,121,NA,101,128,129,0,130,794,91.3098,17,7.92453,12.2,76.1
+King,Glacier Park Elementary,5,101,119,NA,80,124,125,0,127,858,86.4802,19,7.71889,12.3,69.6
+King,Two Rivers School,10,NA,NA,6,NA,9,9,11,8,115,88.6957,14,29.0541,14,62.5
+King,Fall City Elementary,5,93,109,NA,87,120,121,0,119,636,89.9371,18,6.80062,12.8,60
+King,North Bend Elementary School,5,69,87,NA,50,97,97,0,97,518,91.8919,16,15.2805,14.3,59.4
+King,Snoqualmie Elementary,5,30,41,NA,22,47,47,0,47,380,88.4211,15,14.787,11,64
+King,Mount Si High School,10,181,264,252,139,264,278,269,270,1354,91.8021,21,8.64198,14.1,61.5
+King,Edwin R Opstad Elementary,5,81,95,NA,61,103,103,0,103,550,92.7273,21,9.14077,16.4,61.5
+King,Tiger Mountain Community High School,10,6,15,13,5,18,23,21,19,106,92.4528,12,19.4444,17.7,77.8
+King,Clark Elementary,5,54,61,NA,35,78,78,0,78,431,64.0371,17,13.3484,9.6,76.9
+King,Sunset Elementary,5,93,100,NA,78,115,115,0,117,317,75.7098,13,43.5294,16,76
+King,Issaquah High School,10,355,414,413,266,426,427,425,423,1247,81.1548,20,5.03716,12,59
+King,Sunny Hills Elementary,5,114,121,NA,96,138,137,0,138,672,77.8274,18,3.73692,10.7,54.1
+King,Briarwood Elementary,5,58,80,NA,45,87,87,0,87,392,84.949,16,18.9526,10,40
+King,Maple Hills Elementary,5,54,59,NA,28,74,74,0,74,449,91.314,15,6.66667,10.4,65.5
+King,Issaquah Valley Elementary,5,48,56,NA,28,72,73,0,72,444,71.8468,17,16.8514,14.3,69.2
+King,Apollo Elementary,5,49,62,NA,38,77,77,0,77,426,66.1972,17,16.6667,11.2,68
+King,Liberty Sr High School,10,213,289,283,151,306,314,312,301,1272,81.9182,19,10.1626,10,57.6
+King,Challenger Elementary,5,78,79,NA,67,88,88,0,89,672,64.4345,19,5.80357,11,61.1
+King,Cougar Ridge Elementary,5,86,87,NA,75,91,91,0,93,567,59.2593,16,1.22592,11.4,58.3
+King,Discovery Elementary,5,94,97,NA,78,105,105,0,105,730,70.8219,18,1.45889,12.3,67.5
+King,Endeavour Elementary School,5,96,101,NA,78,113,113,0,113,698,67.192,17,6.73352,11.4,68.3
+King,Skyline High School,10,357,421,431,282,430,435,436,436,1277,77.0556,21,2.07171,12.2,61.7
+King,Cascade Ridge Elementary,5,114,122,NA,84,137,137,0,137,698,80.086,15,1.55367,9.7,42.6
+King,Lake Forest Park Elementary,5,45,52,NA,26,62,62,0,71,392,81.1224,16,13.0326,13.8,76
+King,Ridgecrest Elementary,5,28,36,NA,16,41,41,0,41,497,73.0382,14,17.2,11,74.3
+King,Briarcrest Elementary,5,48,58,NA,34,66,66,0,65,383,59.0078,14,34.4648,15.2,63
+King,North City Elementary,5,32,36,NA,24,42,42,0,42,352,54.2614,14,38.9831,13.6,57.7
+King,Echo Lake Elementary School,5,41,47,NA,24,54,54,0,54,399,54.1353,14,31.6832,10.5,57.1
+King,Sunset Elementary,5,37,38,NA,19,52,52,0,52,317,75.7098,13,43.5294,16,76
+King,Brookside Elementary,5,60,71,NA,49,75,75,0,75,485,74.0206,17,13.3612,17.3,58.6
+King,Highland Terrace Elementary,5,48,47,NA,36,56,56,0,55,332,71.6867,14,16.7173,15.1,69.6
+King,Shorecrest High School,10,218,309,300,168,330,331,334,311,1504,70.6782,18,18.9993,13.6,71.8
+King,Parkwood Elementary,5,27,44,NA,29,54,54,0,54,405,46.6667,14,34.0633,15.2,55.2
+King,Melvin G Syre Elementary,5,65,68,NA,58,80,81,0,82,485,76.701,14,11.7172,14.8,55.9
+King,Shorewood High School,10,261,365,369,180,385,400,396,385,1836,67.1569,18,15.2076,13.2,69.6
+King,Meridian Park Elementary School,5,71,76,NA,67,85,84,0,84,656,56.5549,16,30.1493,13.1,73.2
+King,Explorer Community School,5,9,10,NA,5,11,11,0,11,72,91.6667,14,2.8169,16.7,80
+King,Family Learning Center,5,8,11,NA,5,11,11,0,11,267,88.764,53,2.20588,14.5,NA
+King,Family Learning Center,10,9,11,10,6,13,12,11,12,267,88.764,53,2.20588,14.5,NA
+King,International Community School,10,48,50,51,49,51,50,51,51,380,76.5789,20,0.536193,8.6,63.2
+King,Futures School,10,1,7,7,0,17,14,13,14,73,79.4521,9,16.9811,7.7,37.5
+King,Redmond Elementary,5,24,33,NA,20,39,39,0,39,352,59.6591,13,39.6694,13.1,37
+King,Lake Washington High,10,261,342,331,204,370,375,367,359,1183,75.8242,17,10.1968,14.8,50
+King,Juanita Elementary,5,29,37,NA,22,43,43,0,43,375,68.5333,16,31.8302,16.6,43.5
+King,Rose Hill Elementary,5,30,35,NA,24,44,44,0,44,373,52.5469,14,40.8696,12,53.8
+King,Lakeview Elementary,5,49,60,NA,34,72,71,0,71,433,82.9099,17,11.3426,14.3,57.7
+King,Twain Elementary,5,53,55,NA,37,68,67,0,68,545,69.1743,17,15.0579,15,43.8
+King,Thoreau Elementary,5,27,28,NA,21,38,38,0,38,326,79.7546,16,21.0526,18,42.9
+King,Redmond High,10,396,497,495,354,528,529,525,527,1514,78.93,20,8.87372,13.4,57.9
+King,Mann Elementary,5,61,68,NA,45,74,74,0,74,437,81.9222,17,9.11162,16.2,69.2
+King,Audubon Elementary,5,55,58,NA,46,62,62,0,62,408,65.9314,16,11.165,9.2,44
+King,Franklin Elementary,5,61,66,NA,49,74,74,0,74,493,71.1968,17,6.07287,13.7,34.5
+King,Bell Elementary,5,28,37,NA,22,45,45,0,44,380,65.2632,15,26.0638,15.7,50
+King,Frost Elementary,5,41,50,NA,36,66,66,0,66,476,67.2269,15,29.2373,12.4,64.5
+King,Rush Elementary,5,29,34,NA,23,44,44,0,44,405,65.4321,14,9.52381,19.3,46.4
+King,Keller Elementary,5,51,61,NA,36,67,67,0,67,390,70,13,24.4032,11.9,31
+King,Sandburg Elementary,5,42,49,NA,25,66,65,0,65,537,88.0819,16,8.92193,14.6,50
+King,Muir Elementary,5,36,47,NA,25,68,69,0,69,454,45.5947,15,42.6009,14.3,53.3
+King,Juanita High,10,202,283,293,138,319,321,322,305,1025,74.439,16,15.7563,15,48.5
+King,Best Sr High,10,9,25,25,2,28,34,31,28,177,68.3616,12,23.6842,11.1,20
+King,Kirk Elementary,5,59,67,NA,45,71,71,0,71,535,88.0374,16,3.94737,17.1,55.9
+King,Dickinson Elementary,5,72,76,NA,55,85,85,0,85,704,79.1193,17,5.49296,10.2,51.2
+King,Mead Elementary,5,69,77,NA,54,86,86,0,86,631,83.2013,17,4.87421,10.1,55.3
+King,Rockwell Elementary,5,65,62,NA,45,77,77,0,76,488,74.5902,16,6.65323,13.2,46.7
+King,Alcott Elementary,5,88,99,NA,72,106,106,0,106,660,68.4848,19,5.85652,11.1,40
+King,Smith Elementary,5,88,89,NA,73,98,98,0,98,778,76.2211,19,2.32558,7.2,51.2
+King,Wilder Elementary,5,73,77,NA,58,81,81,0,81,560,83.5714,17,1.56522,15.7,42.4
+King,Mcauliffe Elementary,5,72,82,NA,57,91,91,0,91,673,79.9406,16,3.42772,13.1,63.4
+King,Einstein Elementary,5,29,35,NA,20,48,48,0,48,411,42.3358,15,40.1535,9.1,60.7
+King,Eastlake High School,10,358,424,424,295,442,437,436,440,1334,88.3058,18,2.83742,13.6,61.3
+King,Blackwell Elementary,5,69,69,NA,62,73,73,0,73,547,79.8903,18,1.63339,15.7,58.1
+King,Meridian Elementary School,5,78,86,NA,56,100,103,0,103,655,65.1908,18,28.9121,15.5,66.7
+King,Panther Lake Elementary School,5,38,47,NA,16,69,69,0,68,419,42.0048,17,35.2246,12,54.2
+King,Kent-Meridian High School,10,121,232,220,81,308,305,302,273,1783,38.1941,20,58.6471,9.5,52.7
+King,East Hill Elementary School,5,24,33,NA,4,56,56,0,54,507,34.714,17,62.4299,11.4,63.3
+King,Kent Mountain View Academy,5,18,20,NA,11,22,22,0,22,378,79.6296,NA,20.9239,NA,NA
+King,Kent Mountain View Academy,10,22,32,31,15,39,39,38,38,378,79.6296,NA,20.9239,NA,NA
+King,Covington Elementary School,5,37,42,NA,26,61,61,0,61,579,66.494,18,38.3562,9,57.6
+King,Scenic Hill Elementary School,5,27,46,NA,10,65,64,0,66,496,42.3387,17,66.6667,13.9,66.7
+King,Park Orchard Elementary School,5,35,38,NA,15,64,64,0,64,484,32.438,17,63.0705,12.1,57.1
+King,Lake Youngs Elementary School,5,80,90,NA,47,96,96,0,96,492,69.7154,18,20,15.7,75
+King,Pine Tree Elementary School,5,49,57,NA,27,77,76,0,75,535,56.6355,19,48.6742,13.1,82.1
+King,Kentridge High School,10,348,487,498,272,526,538,542,528,2306,63.3565,23,18.7751,10.8,59.4
+King,Cedar Valley Elementary School,5,26,36,NA,8,61,61,0,61,440,61.5909,18,49.1379,13.4,64
+King,Springbrook Elementary School,5,26,32,NA,11,47,47,0,46,443,45.3725,18,56.582,10.6,52
+King,Fairwood Elementary School,5,39,52,NA,16,60,60,0,60,460,60,18,23.1441,13.1,56
+King,Soos Creek Elementary School,5,45,57,NA,20,72,72,0,72,468,52.7778,17,25.567,9.1,60.7
+King,Grass Lake Elementary School,5,62,65,NA,37,71,72,0,71,441,84.127,18,17.6606,13.3,40
+King,Crestwood Elementary School,5,42,45,NA,29,63,64,0,64,495,74.5455,20,15.7371,15.1,60
+King,Kentwood High School,10,351,474,482,235,517,525,525,490,2428,66.1038,24,21.5021,10.7,62.7
+King,Ridgewood Elementary School,5,85,94,NA,52,97,97,0,99,623,63.7239,19,11.5265,14.2,43.8
+King,Martin Sortun Elementary School,5,61,70,NA,36,81,81,0,82,502,44.0239,19,44.8473,9.8,57.7
+King,Jenkins Creek Elementary School,5,37,45,NA,9,59,61,0,61,474,69.4093,18,41.5179,15.7,77.8
+King,Horizon Elementary School,5,56,70,NA,34,87,88,0,87,566,56.1837,18,36.7893,14.7,65.6
+King,Carriage Crest Elementary School,5,47,49,NA,21,66,66,0,66,423,64.0662,18,24.9438,14.7,52.2
+King,Neely O Brien Elementary School,5,33,50,NA,15,62,63,0,63,656,32.4695,16,63.84,12.9,64.3
+King,George T. Daniel Elementary School,5,23,34,NA,9,49,49,0,49,429,31.2354,17,70.6897,8.3,50
+King,Sunrise Elementary School,5,75,92,NA,41,100,100,0,100,495,63.2323,17,21.3084,12.2,44.8
+King,Meadow Ridge Elementary School,5,28,45,NA,8,70,70,0,70,586,36.1775,18,66.0596,6.8,56.3
+King,Sawyer Woods Elementary School,5,55,61,NA,41,67,67,0,67,438,90.411,19,7.90068,13.1,60.9
+King,Glenridge Elementary,5,38,53,NA,20,78,78,0,77,439,47.1526,17,36.5217,9.8,57.7
+King,Kentlake High School,10,218,328,334,169,364,368,372,350,1921,77.0953,23,26.1271,10.2,57.3
+King,Kent Elementary School,5,27,35,NA,6,67,65,0,72,548,31.7518,22,66.3569,14.3,52
+King,Emerald Park Elementary School,5,52,64,NA,34,84,84,0,83,518,45.5598,17,37.0036,12.4,77.4
+King,Northshore Home School Networks,5,3,6,NA,0,10,10,0,10,512,85.9375,NA,2.07254,NA,NA
+King,Northshore Home School Networks,10,18,40,39,11,49,46,49,44,512,85.9375,NA,2.07254,NA,NA
+King,Kenmore Elementary,5,51,67,NA,36,74,73,0,73,464,70.0431,18,36.6738,13.8,50
+King,Crystal Springs Elementary,5,63,76,NA,33,91,91,0,90,573,60.3839,17,23.1561,13.7,48.5
+King,Bothell High School,10,385,509,497,274,533,548,548,532,1696,82.7241,18,13.2597,12.7,67.4
+King,Arrowhead Elementary,5,49,62,NA,33,73,73,0,72,418,77.7512,17,16.6276,15.7,52
+King,Cottage Lake Elementary,5,42,44,NA,29,50,50,0,51,391,86.7008,17,9.51157,13.4,56.5
+King,Westhill Elementary,5,43,54,NA,29,68,68,0,68,488,68.6475,16,23.7006,11.9,56.7
+King,Maywood Hills Elementary,5,55,64,NA,49,68,68,0,68,519,74.3738,17,20.7224,14.4,48.4
+King,Lockwood Elementary,5,70,81,NA,36,88,89,0,88,485,76.9072,17,12.0833,16.3,48.3
+King,Moorlands Elementary,5,71,71,NA,54,80,79,0,81,576,76.7361,17,10.6897,15.6,52.9
+King,Inglemoor Hs,10,496,604,598,355,617,626,626,622,1937,76.4068,19,10.4873,15.6,69.9
+King,Shelton View Elementary,5,40,47,NA,32,56,56,0,56,353,78.4703,16,15.8046,17.4,59.1
+King,Woodin Elementary,5,35,45,NA,19,51,52,0,54,464,54.9569,15,36.6379,12.9,61.3
+King,Canyon Creek Elementary,5,47,53,NA,36,64,64,0,67,541,75.7856,16,11.6788,14.3,47.1
+King,Wellington Elementary,5,86,103,NA,66,107,107,0,107,575,81.913,18,8.19113,18.6,65.6
+King,Hollywood Hill Elementary,5,37,39,NA,28,41,41,0,46,399,83.9599,16,9.5,10.5,64
+King,Sunrise Elementary,5,45,49,NA,31,51,51,0,52,511,94.5205,16,12.8107,13.2,65.6
+King,Woodinville Hs,10,328,427,423,269,439,448,448,440,1395,87.3118,19,6.18102,14.6,64
+King,Bear Creek Elementary,5,49,60,NA,39,62,63,0,63,385,82.3377,18,4.93506,12.5,72.7
+King,Fernwood Elementary,5,72,83,NA,47,90,90,0,91,602,75.7475,19,13.1922,13.7,64.5
+King,Frank Love Elementary,5,30,41,NA,22,47,47,0,47,409,79.9511,19,19.1388,18.2,68.2
+King,Woodmoor Elementary,5,84,98,NA,56,116,117,0,117,838,67.0644,16,20.4057,16.3,69.8
+King,East Ridge Elementary,5,56,65,NA,53,75,75,0,75,522,89.8467,19,2.48092,15.3,55.6
+King,Kokanee Elementary,5,44,59,NA,42,73,73,0,73,457,76.1488,14,14.2857,13.3,43.8
+Kitsap,Renaissance Alternative High School,10,1,10,5,0,11,14,14,10,137,70.073,NA,65.8333,NA,NA
+Kitsap,West Hills Elementary,5,34,37,NA,23,48,46,0,48,339,58.4071,15,67.4923,18.4,56.5
+Kitsap,View Ridge Elementary School,5,43,64,NA,36,92,92,0,92,521,61.2284,16,54.6139,17.5,46.9
+Kitsap,Crownhill Elementary School,5,21,37,NA,11,49,49,0,49,405,73.0864,16,52.5672,17.1,57.7
+Kitsap,Bremerton High School,10,158,287,256,108,340,350,346,326,1553,65.6793,19,41.5675,15.2,56.1
+Kitsap,Naval Avenue Elementary School,5,19,27,NA,8,47,46,0,47,336,58.3333,15,66.879,15.8,43.5
+Kitsap,Armin Jahr Elementary,5,49,57,NA,38,69,70,0,72,455,56.2637,16,57.9521,17.1,64.3
+Kitsap,Kitsap Lake Elementary,5,31,37,NA,18,46,46,0,46,331,69.7885,14,50.3049,17.8,65.2
+Kitsap,Odyssey Multiage Program,5,13,14,NA,13,14,14,0,14,114,85.9649,5,6.83761,12,76.2
+Kitsap,Bainbridge High School,10,316,362,353,272,364,368,362,364,1530,88.7582,18,4.31607,15,79.5
+Kitsap,Sakai Intermediate,5,225,274,NA,184,289,292,0,293,603,89.8839,15,6.25,15.3,79.5
+Kitsap,Spectrum Community School,10,0,8,12,0,11,19,17,13,105,69.5238,15,68.4211,15.4,71.4
+Kitsap,Pal Program,10,5,11,9,4,14,12,11,10,208,85.5769,26,11.8483,12.6,62.5
+Kitsap,Poulsbo Elementary School,5,53,76,NA,30,93,92,0,92,609,77.6683,16,30.3371,18.6,63.2
+Kitsap,David Wolfle Elementary,5,31,52,NA,25,59,59,0,60,496,73.3871,17,48.2474,15.1,70
+Kitsap,Hilder Pearson Elementary,5,21,40,NA,22,42,42,0,43,342,77.4854,16,27.0588,15.5,40.9
+Kitsap,North Kitsap High School,10,301,442,439,195,515,516,519,496,1542,81.9066,19,20.3997,14.7,61
+Kitsap,Suquamish Elementary School,5,54,68,NA,50,76,76,0,77,468,69.2308,14,38.2096,12.8,63.6
+Kitsap,Breidablik Elementary,5,36,50,NA,19,64,64,0,64,451,88.6918,17,24.9453,15.6,77.8
+Kitsap,Vinland Elementary,5,51,61,NA,39,65,65,0,66,610,80.6557,17,24.0614,14.7,72.2
+Kitsap,Richard Gordon Elementary,5,60,71,NA,54,78,78,0,78,543,84.8987,16,29.304,13.9,52.9
+Kitsap,Off Campus,5,4,8,NA,3,11,12,0,11,303,0,NA,7.64526,NA,NA
+Kitsap,Off Campus,10,15,18,18,5,21,20,22,17,303,0,NA,7.64526,NA,NA
+Kitsap,Central Kitsap High School,10,290,382,360,193,425,410,408,411,1342,0,19,12.0127,15.5,56.9
+Kitsap,Tracyton Elementary,5,49,55,NA,27,76,75,0,76,454,0,16,34.4444,13.1,53.6
+Kitsap,Brownsville Elementary,5,50,64,NA,38,71,71,0,71,485,0,17,2.75424,15.9,64.3
+Kitsap,Seabeck Elementary,5,33,43,NA,14,57,57,0,57,402,0,18,22.3881,15.3,45.5
+Kitsap,Jackson Park Elementary,5,24,35,NA,13,40,40,0,40,314,0,14,48.0122,16.2,59.1
+Kitsap,Cottonwood Elementary School,5,30,39,NA,15,53,53,0,53,346,0,14,32.4561,16.2,41.7
+Kitsap,Esquire Hills Elementary,5,42,57,NA,29,80,80,0,80,479,0,17,40.4297,16.9,62.1
+Kitsap,Clear Creek Elementary School,5,40,56,NA,22,80,80,0,80,473,0,13,29.3501,11.2,64.9
+Kitsap,Olympic High School,10,192,343,331,129,362,377,376,359,1148,0,16,21.5054,15.1,65.7
+Kitsap,Silverdale Elementary,5,50,60,NA,37,74,73,0,73,553,0,17,16.9205,14,48.5
+Kitsap,Woodlands Elementary,5,30,41,NA,17,61,61,0,61,364,0,15,34.0659,16.1,52
+Kitsap,Cougar Valley Elementary,5,24,39,NA,18,52,52,0,52,379,0,15,18.3288,14.9,56
+Kitsap,Silver Ridge Elementary,5,54,70,NA,26,78,78,0,77,456,0,15,25.5365,21.1,48.4
+Kitsap,Green Mountain Elementary,5,43,49,NA,15,60,60,0,60,370,0,15,28.0992,11.8,60
+Kitsap,Emerald Heights Elementary,5,77,82,NA,56,97,97,0,97,537,0,15,21.492,18.3,63.9
+Kitsap,Klahowya Secondary,10,95,130,124,60,151,155,151,147,1022,0,17,19.2735,13.2,65.6
+Kitsap,Pinecrest Elementary,5,34,40,NA,23,57,57,0,57,391,0,14,35.9606,13.9,64.3
+Kitsap,Explorer Academy,5,8,11,NA,5,16,16,0,16,168,88.6905,NA,10.1911,NA,NA
+Kitsap,Explorer Academy,10,12,23,21,9,26,29,27,27,168,88.6905,NA,10.1911,NA,NA
+Kitsap,South Kitsap High School,10,387,698,670,231,785,803,792,751,2538,83.7667,21,19.845,12.4,66.4
+Kitsap,East Port Orchard Elementary,5,33,45,NA,25,67,67,0,67,507,73.3728,15,46.3796,11.2,61.8
+Kitsap,Orchard Heights Elementary,5,68,81,NA,36,103,101,0,114,678,74.6313,16,42.0613,15.2,53.5
+Kitsap,Olalla Elementary School,5,38,55,NA,26,65,65,0,70,380,81.5789,18,30.2872,13.9,38.1
+Kitsap,South Colby Elementary,5,65,73,NA,42,84,82,0,86,493,87.4239,19,15.4004,17.5,50
+Kitsap,Burley Glenwood Elementary,5,58,77,NA,42,97,98,0,98,521,83.3013,15,36.0845,18,82.4
+Kitsap,Manchester Elementary School,5,39,55,NA,20,69,68,0,74,448,79.9107,17,28,17.2,76.9
+Kitsap,Sunnyslope Elementary School,5,42,59,NA,28,70,71,0,73,441,81.8594,15,34.0564,17.5,58.6
+Kitsap,Hidden Creek Elementary School,5,53,64,NA,28,74,74,0,75,568,80.1056,16,28.1588,14.4,55.6
+Kitsap,Sidney Glen Elementary School,5,58,75,NA,33,99,97,0,104,635,77.6378,16,42.2468,11.8,69.2
+Kitsap,Mullenix Ridge Elementary School,5,55,66,NA,33,81,81,0,82,552,85.3261,18,17.2061,13.2,67.7
+Kittitas,Easton School,5,5,9,NA,1,12,12,0,12,115,86.9565,10,36.7521,16.2,58.3
+Kittitas,Easton School,10,NA,NA,8,3,7,8,10,10,115,86.9565,10,36.7521,16.2,58.3
+Kittitas,Thorp Elem & Jr Sr High,5,10,16,NA,4,17,17,0,17,167,89.8204,8,38.8235,15.2,47.6
+Kittitas,Lincoln Elementary,5,32,51,NA,16,63,64,0,61,432,82.4074,18,33.3333,15.9,58.3
+Kittitas,Ellensburg High School,10,151,191,166,80,206,214,211,189,943,87.9109,19,20.0673,14.5,62
+Kittitas,Mt. Stuart Elementary,5,21,32,NA,10,46,45,0,47,443,81.4898,16,45.7471,10.7,50
+Kittitas,Valley View Elementary School,5,46,54,NA,25,64,64,0,64,424,81.6038,16,33.6538,14.8,61.5
+Kittitas,Kittitas Elementary School,5,25,33,NA,6,43,44,0,43,260,72.6923,13,48.6989,15.9,80
+Kittitas,Kittitas High School,10,21,39,36,6,44,46,43,50,331,84.29,18,32.9377,12.8,61.1
+Kittitas,Cle Elum Roslyn Elementary,5,35,62,NA,28,72,71,0,74,438,90.1826,NA,NA,NA,NA
+Kittitas,Cle Elum Roslyn High School,10,30,60,50,27,68,67,65,64,324,90.4321,15,NA,12.9,50
+Klickitat,Bickleton Elementary & High Schl,5,7,10,NA,7,11,11,0,11,101,66.3366,8,0,15.4,61.5
+Klickitat,Centerville Elementary,5,8,8,NA,5,10,10,0,10,92,92.3913,18,34.8315,19.7,80
+Klickitat,Trout Lake School,5,9,13,NA,6,16,16,0,16,115,88.6957,8,0,17,66.7
+Klickitat,Trout Lake School,10,8,11,11,7,10,11,11,11,115,88.6957,8,0,17,66.7
+Klickitat,Klickitat Elem & High,10,NA,8,9,NA,9,12,13,9,150,85.3333,12,63.4483,17.4,69.2
+Klickitat,Goldendale High School,10,39,76,66,14,90,95,91,86,416,80.0481,18,42.6768,22.4,73.9
+Klickitat,Goldendale Middle School,5,30,43,NA,17,55,55,0,57,328,85.6707,15,55.0595,15.4,81.8
+Klickitat,Columbia High School,10,58,87,83,39,93,94,92,94,300,78.3333,13,30.7432,19.2,56.5
+Klickitat,Wayne M Henkle Middle School,5,38,56,NA,18,78,78,0,82,347,63.1124,17,54.416,13,60
+Klickitat,Dallesport Elementary,5,11,16,NA,2,31,31,0,31,204,86.7647,19,99.4924,16.9,45.5
+Klickitat,Lyle High School,10,7,22,18,4,25,26,25,24,127,81.1024,14,100,19.6,33.3
+Lewis,Napavine Jr Sr High School,10,40,56,55,36,57,57,56,56,361,92.2438,15,27.3239,17.6,70.8
+Lewis,Napavine Elementary,5,31,46,NA,20,53,53,0,57,364,88.7363,15,41.0188,14.9,79.2
+Lewis,Mossyrock Elementary School,5,29,41,NA,24,53,53,0,53,322,76.7081,15,53.211,12.8,36.4
+Lewis,Mossyrock Middle & High Schl,10,23,43,41,17,50,52,51,45,339,87.3156,15,40.7738,10.9,69.6
+Lewis,Morton Elementary School,5,17,21,NA,11,27,26,0,29,179,88.8268,22,51.7241,14.9,75
+Lewis,Morton Junior-Senior High,10,14,32,32,10,42,42,41,42,261,94.2529,15,50.1946,12.2,47.1
+Lewis,Adna Elementary School,5,15,30,NA,7,38,39,0,38,263,94.2966,15,21.2121,14.3,41.2
+Lewis,Adna Middle/High School,10,21,40,34,14,47,46,46,45,310,92.9032,16,23.6842,17.9,80
+Lewis,Winlock Miller Elementary,5,22,34,NA,10,54,54,0,54,330,83.3333,17,56.6766,15.5,90
+Lewis,Winlock Senior High,10,16,46,49,10,54,54,53,50,225,87.1111,9,44.9761,14.8,75
+Lewis,Toledo High School,10,36,67,58,21,73,88,79,64,379,93.1398,18,45.5056,12.7,76.2
+Lewis,Toledo Elementary School,5,35,55,NA,25,67,65,0,69,410,91.2195,17,51.6291,14,79.2
+Lewis,Onalaska High School,10,20,48,33,12,54,56,53,51,287,82.9268,13,40.5405,14.7,63.6
+Lewis,Onalaska Elementary/Middle School,5,27,41,NA,19,54,50,0,57,578,80.4498,19,52.1295,13.1,67.7
+Lewis,Pe Ell School,5,13,23,NA,6,29,29,0,29,325,90.4615,15,55.6548,13.1,71.4
+Lewis,Pe Ell School,10,10,19,13,1,18,20,20,20,325,90.4615,15,55.6548,13.1,71.4
+Lewis,W F West High School,10,114,184,167,79,213,210,209,207,944,86.6525,20,26.0349,16.9,83
+Lewis,Olympic Elementary,5,118,194,NA,81,229,231,0,232,417,90.8873,17,39.2857,17.9,79.2
+Lewis,White Pass Jr. Sr. High School,10,22,45,41,15,56,57,58,55,326,90.7975,14,43.6482,16.9,45.8
+Lewis,White Pass Elementary School,5,18,24,NA,9,27,27,0,27,240,92.5,18,60.9244,20.6,46.2
+Lewis,Centralia High School,10,116,192,189,70,228,221,225,213,1100,81.9091,18,40.0198,13.3,54.1
+Lewis,Oakview Elementary School,5,79,109,NA,32,150,152,0,149,437,80.0915,15,50.6667,16.9,70
+Lewis,Washington Elementary School,5,47,76,NA,33,97,97,0,98,398,59.799,17,53.7662,7.3,62.5
+Lincoln,Sprague Elementary,5,4,5,NA,3,12,12,0,12,49,93.8776,8,40,14.9,50
+Lincoln,Reardan High School,10,31,50,50,24,65,61,63,63,194,93.8144,10,27.451,13.1,57.9
+Lincoln,Reardan Elem & Middle School,5,19,31,NA,18,44,43,0,44,465,93.9785,24,37.8323,15.4,42.1
+Lincoln,Creston Jr-Sr High School,10,5,8,9,4,12,11,11,12,55,94.5455,7,33.3333,15,62.5
+Lincoln,Odessa High School,10,12,21,20,9,22,24,24,23,150,96.6667,8,37.931,17.9,84.2
+Lincoln,P C Jantz Elementary,5,12,13,NA,4,16,16,0,16,96,96.875,7,34.375,15.8,84.6
+Lincoln,Wilbur Secondary School,10,11,19,20,5,23,25,25,22,116,66.3793,9,42.1488,17.2,69.2
+Lincoln,Wilbur Elementary School,5,8,10,NA,2,15,15,0,15,110,84.5455,9,47.1698,11.5,50
+Lincoln,Harrington Elementary School,5,7,8,NA,4,11,11,0,10,68,73.5294,8,38.3333,16.2,88.9
+Lincoln,Davenport Elementary,5,13,22,NA,6,38,38,0,38,319,92.4765,17,48.2866,16.1,63.2
+Lincoln,Davenport Senior High School,10,15,37,30,12,40,41,42,47,262,91.9847,13,37.5,15.8,65
+Mason,Southside Elementary,5,13,20,NA,7,28,28,0,28,257,85.6031,18,34.5098,10.6,57.1
+Mason,Grapeview Elementary & Middle School,5,10,15,NA,9,22,23,0,23,185,91.8919,15,32.3383,19,66.7
+Mason,Evergreen Elementary School,5,25,41,NA,18,64,70,0,72,829,57.1773,21,48.7745,12,46.2
+Mason,Shelton High School,10,187,308,310,131,377,383,393,362,1186,81.3659,19,32.2464,15.2,45.2
+Mason,Bordeaux Elementary School,5,27,38,NA,18,65,58,0,66,465,78.7097,16,63.8344,13.4,48.3
+Mason,Mountain View Elementary,5,48,82,NA,24,97,97,0,97,642,64.1745,14,44.0909,18.4,65.2
+Mason,Choice Alternative School,10,6,24,19,4,34,41,37,19,289,71.9723,24,55.8719,11.7,50
+Mason,Mary M Knight High School,10,8,14,12,8,15,14,13,15,78,88.4615,7,49.3976,16.5,72.7
+Mason,Mary M Knight Elementary,5,5,10,NA,3,17,17,0,17,102,84.3137,17,49.1071,17,66.7
+Mason,Pioneer Intermediate/Middle School,5,45,59,NA,28,93,93,0,92,439,84.2825,16,53.1469,13.9,66.7
+Mason,North Mason Options High School,10,5,11,11,NA,15,15,17,9,67,89.5522,34,20.3125,31.3,50
+Mason,Belfair Elementary,5,40,65,NA,26,78,78,0,79,544,88.0515,17,28.2528,12.7,62.5
+Mason,North Mason Senior High School,10,101,141,130,55,180,166,170,168,786,86.7684,18,24.3351,13.6,68.2
+Mason,Sand Hill Elementary,5,42,62,NA,23,81,81,0,81,507,81.6568,16,46.6797,12,68.8
+Mason,Hood Canal Elem & Junior High,5,8,16,NA,4,28,28,0,26,319,55.7994,15,NA,20.1,33.3
+Okanogan,Nespelem Elementary,5,2,9,NA,0,15,15,0,15,175,1.71429,15,53.8043,20.6,75
+Okanogan,Omak High School,10,39,88,81,33,104,106,101,98,499,59.9198,14,36.7841,15.8,51.4
+Okanogan,E Omak Elementary,5,43,68,NA,28,106,108,0,108,313,57.1885,17,61.9497,18.1,27.8
+Okanogan,Paschal Sherman,5,1,6,NA,0,12,12,0,15,218,0,NA,17.6796,NA,NA
+Okanogan,Okanogan High School,10,31,65,58,26,74,73,73,70,326,65.3374,12,38.3803,14,51.9
+Okanogan,Grainger Elementary,5,30,54,NA,14,69,67,0,71,437,63.8444,17,59.3258,12.9,53.8
+Okanogan,Brewster High School,10,29,48,43,19,60,56,57,63,276,32.2464,15,96.2825,13.5,68.4
+Okanogan,Brewster Elementary School,5,12,28,NA,4,52,52,0,52,525,12.381,17,95.1613,11.4,48.4
+Okanogan,Pateros Elementary,5,10,12,NA,10,16,15,0,15,118,46.6102,7,73.6364,17.3,62.5
+Okanogan,Pateros High School,10,13,24,25,11,25,26,26,25,183,60.6557,14,51.4286,15.9,61.5
+Okanogan,Liberty Bell Jr Sr High,10,38,47,45,27,51,49,49,49,284,94.0141,14,26.8551,12,70
+Okanogan,Methow Valley Elementary,5,27,31,NA,22,34,33,0,35,263,94.6768,15,44.3182,19.7,72.2
+Okanogan,Tonasket High School,10,34,58,60,18,83,78,80,82,377,77.7188,15,57.1823,14.8,57.7
+Okanogan,Tonasket Elementary School,5,35,54,NA,19,73,73,0,73,453,62.6932,14,62.1053,18.8,53.1
+Okanogan,Oroville Elementary,5,15,28,NA,9,42,42,0,42,347,61.3833,14,72.2826,16.6,33.3
+Okanogan,Oroville Middle-High School,10,21,38,35,13,52,49,48,52,334,72.4551,15,53.5826,17.6,59.1
+Pacific,Long Beach Elementary School,5,28,34,NA,11,39,40,0,41,300,85.3333,15,60.7273,13.1,65
+Pacific,Ocean Park Elementary,5,25,37,NA,16,49,48,0,48,220,76.8182,16,77.7778,15.4,64.3
+Pacific,Ilwaco Sr High,10,39,79,69,31,80,91,89,80,351,83.4758,NA,51.6245,NA,NA
+Pacific,Raymond Jr Sr High School,10,10,36,36,9,39,40,39,38,279,68.8172,13,49.8282,18.7,27.3
+Pacific,Raymond Elementary School,5,24,28,NA,15,35,34,0,37,265,71.6981,13,63.3452,16.6,42.9
+Pacific,South Bend High School,10,25,35,38,10,44,44,42,48,182,65.9341,10,50.7772,17.8,68.4
+Pacific,Chauncey Davis Elementary,5,20,25,NA,6,43,43,0,45,311,51.7685,16,62.7451,15.9,68.4
+Pacific,Naselle Elementary,5,18,19,NA,9,29,29,0,29,168,89.2857,56,52.3256,8.4,NA
+Pacific,Naselle Jr Sr High Schools,10,11,20,19,5,23,23,23,23,177,87.0056,8,38.2857,13.5,63.6
+Pacific,Naselle Youth Camp School,10,NA,9,6,NA,8,10,10,9,118,0,8,0,16.6,66.7
+Pacific,Willapa Valley Jr Sr High,10,17,38,33,8,39,39,39,37,221,89.1403,10,29.4931,19.2,56.5
+Pacific,Willapa Elementary,5,17,26,NA,10,29,30,0,29,159,87.4214,14,44.5161,19.6,45.5
+Pend Oreille,Newport High School,10,45,66,66,31,81,78,80,80,399,94.2356,12,48.1081,14.7,61.8
+Pend Oreille,Sadie Halstead Middle School,5,41,62,NA,29,74,74,0,73,350,93.7143,NA,59.2486,NA,NA
+Pend Oreille,Cusick Jr Sr High School,10,9,18,18,7,24,24,24,23,145,73.7931,12,46.4286,19.6,58.3
+Pend Oreille,Bess Herian Elementary,5,7,11,NA,6,15,15,0,14,133,63.9098,13,26.4706,17.3,40
+Pend Oreille,Lillian Bailey Elementary,5,10,15,NA,7,19,19,0,19,68,80.8824,11,51.4706,24.4,100
+Pend Oreille,Selkirk Jr-Sr High,10,21,35,34,21,36,35,35,36,196,88.7755,12,38.3085,18.8,70.6
+Pierce,Saltars Point Elementary,5,116,135,NA,77,167,169,0,170,440,65.6818,23,20.4082,15.3,57.9
+Pierce,Steilacoom High,10,83,152,154,63,162,162,168,159,664,68.6747,21,16.8196,15.1,50
+Pierce,Puyallup High School,10,271,502,489,199,573,575,566,543,1761,85.0653,17,15.7241,12.6,58.3
+Pierce,Stewart Elementary,5,16,21,NA,12,25,25,0,26,298,67.1141,11,23.0496,12.8,38.5
+Pierce,Meeker Elementary,5,38,54,NA,29,62,62,0,62,372,82.7957,19,16.7102,18.4,35
+Pierce,Waller Road Elementary,5,19,24,NA,7,33,33,0,32,253,84.1897,11,13.4328,11.8,50
+Pierce,Firgrove Elementary,5,56,85,NA,28,122,122,0,122,1018,64.833,18,19.3611,10.5,57.9
+Pierce,Spinning Elementary,5,38,51,NA,20,58,58,0,57,340,75.5882,14,19.6532,20.8,66.7
+Pierce,Maplewood Elementary,5,26,31,NA,17,38,38,0,38,289,84.7751,16,16.9118,19.5,72.2
+Pierce,Woodland Elementary,5,59,83,NA,58,101,101,0,100,543,72.9282,16,28.757,15,51.4
+Pierce,Karshner Elementary,5,29,39,NA,20,50,50,0,50,360,74.7222,11,19.0736,13.3,56.3
+Pierce,Riverside Elementary,5,13,20,NA,5,26,26,0,26,160,65.625,8,10.6918,12.7,57.1
+Pierce,Hilltop Elementary,5,29,30,NA,17,45,43,0,45,481,74.6362,18,20,13,66.7
+Pierce,Fruitland Elementary,5,48,75,NA,33,83,83,0,83,599,85.6427,19,20.9571,19.1,58.1
+Pierce,Wildwood Elementary,5,40,65,NA,21,75,75,0,75,576,74.1319,19,20.7254,16.3,70
+Pierce,Mt View Elementary,5,32,44,NA,17,48,48,0,48,308,89.2857,21,19.2429,20.1,53.3
+Pierce,Gov John Rogers High School,10,307,468,453,159,534,539,536,531,1567,76.8347,17,18.5088,15,62.6
+Pierce,Sunrise Elementary,5,29,42,NA,21,62,63,0,63,511,94.5205,16,12.8107,13.2,65.6
+Pierce,Northwood Elementary,5,27,36,NA,18,40,40,0,40,217,78.341,11,18.3761,15.2,68.4
+Pierce,E B Walker High School,10,6,31,31,3,45,50,50,40,227,82.8194,14,19.6911,14.3,43.8
+Pierce,Chief Leschi Schools,5,5,16,NA,1,38,37,0,38,725,0,NA,100,NA,NA
+Pierce,Chief Leschi Schools,10,4,29,31,2,42,44,43,36,725,0,NA,100,NA,NA
+Pierce,Ridgecrest Elementary,5,46,59,NA,38,69,69,0,69,497,73.0382,14,17.2,11,74.3
+Pierce,Pope Elementary,5,96,149,NA,60,174,173,0,173,1025,77.4634,19,15.8043,10,68.5
+Pierce,Warren Hunt Elem,5,78,99,NA,54,119,119,0,119,824,77.0631,19,19.6407,13,61.4
+Pierce,Frank Brouillet Elem,5,77,105,NA,42,131,131,0,130,812,73.2759,18,19.7775,11.2,63
+Pierce,Shaw Road Elementary,5,68,75,NA,41,95,95,0,95,581,81.7556,18,16.1812,15.1,75
+Pierce,Edward Zeiger Elem,5,68,87,NA,39,106,106,0,106,572,78.3217,15,19.0227,11.6,76.9
+Pierce,Emerald Ridge High School,10,282,446,452,158,484,499,494,491,1543,81.5943,NA,17.6269,NA,NA
+Pierce,Tacoma School of the Arts,10,67,127,121,49,139,139,136,129,390,78.4615,18,9.65147,12.8,59.1
+Pierce,Larchmont,5,25,44,NA,9,66,66,0,66,467,41.97,15,60.6695,17.3,54.8
+Pierce,Washington-Hoyt,5,41,45,NA,30,55,55,0,55,369,85.3659,21,10.2981,13.4,55.6
+Pierce,Stadium,10,182,269,277,141,285,285,289,283,1678,69.1299,20,24.5016,16.5,51.2
+Pierce,Blix Elementary,5,17,45,NA,8,66,64,0,66,426,23.4742,14,89.6629,9.6,56.7
+Pierce,Mckinley,5,18,27,NA,14,42,41,0,46,295,24.4068,13,86.5979,12.8,59.1
+Pierce,Jefferson,5,16,18,NA,7,24,24,0,24,204,61.2745,17,56.3981,15.4,58.3
+Pierce,Franklin,5,16,28,NA,5,43,43,0,43,293,55.6314,15,62.8975,16,35
+Pierce,Fern Hill,5,28,66,NA,12,91,91,0,91,554,32.13,21,61.3678,18.1,38.5
+Pierce,Sheridan,5,34,50,NA,13,103,103,0,103,656,21.9512,22,69.3721,9.7,36.7
+Pierce,Point Defiance,5,33,57,NA,15,62,62,0,62,390,78.7179,19,43.8462,16.1,47.6
+Pierce,Lincoln,10,51,156,169,27,243,230,229,236,1586,35.4351,20,63.401,13.1,43
+Pierce,Northeast Tacoma,5,36,59,NA,11,80,79,0,83,527,57.4953,20,34.6429,13.1,46.2
+Pierce,Manitou Park,5,28,64,NA,17,83,84,0,84,614,41.3681,20,66.3399,12.9,60
+Pierce,Roosevelt,5,11,14,NA,4,31,30,0,31,263,29.2776,13,88.0866,17,60
+Pierce,Lyon,5,20,24,NA,7,37,37,0,37,318,42.4528,16,74.0741,12.9,70
+Pierce,Stanley,5,12,36,NA,8,52,52,0,52,341,21.9941,14,89.5317,11,75
+Pierce,Geiger,5,19,30,NA,13,35,35,0,36,231,60.1732,14,50.2146,13.9,56.3
+Pierce,Downing,5,29,44,NA,14,56,56,0,53,335,69.8507,17,34.8837,16.4,50
+Pierce,Lister,5,47,59,NA,32,77,78,0,78,385,30.6494,15,84.0749,14.6,60
+Pierce,Fawcett,5,35,49,NA,19,74,75,0,74,416,53.125,17,57.1429,12.2,62.5
+Pierce,Lowell,5,46,64,NA,35,71,72,0,71,401,81.5461,17,21.5686,19.5,43.5
+Pierce,Reed,5,25,47,NA,7,69,68,0,69,514,29.1829,15,74.0741,14.2,37.1
+Pierce,Edison,5,34,43,NA,10,67,69,0,71,584,45.0342,19,73.1034,13,35.5
+Pierce,Browns Point,5,51,66,NA,35,70,70,0,70,410,73.4146,18,8.12808,16,52.2
+Pierce,Whitman,5,33,48,NA,21,65,69,0,70,434,49.5392,16,70.6278,16.3,42.9
+Pierce,Sherman,5,43,51,NA,26,60,60,0,60,315,78.7302,16,32.2785,17.1,45
+Pierce,Delong,5,45,55,NA,23,73,73,0,73,495,45.8586,19,63.9241,18.2,46.2
+Pierce,Arlington,5,18,35,NA,4,46,46,0,46,279,47.3118,17,69.8305,17.6,62.5
+Pierce,Mann,5,22,35,NA,9,60,60,0,59,523,49.3308,19,65.6311,14,51.9
+Pierce,Grant,5,17,35,NA,5,52,52,0,52,356,70.2247,15,44.4744,15.6,54.2
+Pierce,Wainwright,5,40,47,NA,25,65,65,0,65,340,48.5294,19,52.7273,12.8,44.4
+Pierce,Wilson,10,106,241,244,62,307,316,307,290,1434,70.3626,18,31.0107,15.9,55.1
+Pierce,Bryant,5,10,14,NA,4,26,26,0,26,403,41.9355,20,63.4409,6.2,55
+Pierce,Mt Tahoma,10,122,303,281,74,405,414,409,376,1882,46.8119,21,52.3782,13.4,40.4
+Pierce,Birney,5,33,51,NA,9,70,70,0,70,462,36.7965,17,61.3779,14.2,59.3
+Pierce,Whittier,5,25,34,NA,22,37,39,0,41,454,64.978,19,33.7634,19.2,37.5
+Pierce,Mccarver,5,14,36,NA,6,63,62,0,63,460,23.2609,16,93.7365,7.9,32.1
+Pierce,Skyline,5,38,44,NA,26,51,51,0,51,296,70.2703,13,41.6084,12.6,59.1
+Pierce,Boze,5,17,32,NA,7,80,80,0,80,571,20.6655,15,81.5141,10.6,40.5
+Pierce,Foss,10,114,233,233,62,314,310,317,305,1737,42.7173,20,51.348,15.6,58
+Pierce,Oakland Alternative High School,10,1,10,22,1,15,30,29,22,290,43.7931,21,56.8452,20.2,50
+Pierce,Crescent Heights,5,58,83,NA,33,94,93,0,96,579,61.4853,19,16.1179,12.4,53.3
+Pierce,Carbonado Historical School 19,5,14,17,NA,9,18,18,0,18,186,96.7742,12,0,12.7,66.7
+Pierce,Narrows View Intermediate,5,118,162,NA,76,188,188,0,190,652,64.5706,19,35.7686,12.6,82.9
+Pierce,Curtis Senior High,10,250,395,400,149,436,443,441,408,1401,68.4511,19,16.9118,13.6,63.5
+Pierce,Drum Intermediate,5,137,168,NA,88,193,192,0,193,619,65.105,17,25.0401,12.4,50
+Pierce,Maple Lawn Elementary,5,43,52,NA,22,64,65,0,64,449,81.9599,18,27.8867,16.3,60
+Pierce,Sumner Senior High,10,156,279,269,100,308,302,295,290,1613,87.1668,21,20.0517,11.2,56.4
+Pierce,Bonney Lake Elementary,5,38,56,NA,24,64,64,0,65,433,84.7575,18,26.8966,9.6,66.7
+Pierce,McAlder Elementary,5,47,61,NA,35,74,74,0,76,477,81.761,19,20.6122,14.5,52
+Pierce,Victor Falls Elementary,5,56,87,NA,34,102,101,0,105,529,86.9565,20,16.8224,13.7,61.5
+Pierce,Emerald Hills Elementary,5,51,63,NA,33,73,71,0,75,434,89.4009,17,28.4038,14.3,57.7
+Pierce,Liberty Ridge Elementary,5,34,63,NA,32,76,76,0,77,499,82.5651,19,33.1361,8.6,61.5
+Pierce,Crestwood Elementary,5,64,78,NA,29,86,86,0,86,396,85.3535,NA,19.1646,NA,NA
+Pierce,Daffodil Valley Elementary,5,48,58,NA,30,77,77,0,76,402,68.6567,17,53.4392,10.5,50
+Pierce,Dieringer Heights Elementary,5,99,112,NA,69,125,124,0,125,423,91.253,16,6.01336,14.4,44.4
+Pierce,Orting High School,10,58,111,105,48,124,128,128,134,632,88.4494,18,23.2172,12.1,52.8
+Pierce,Ptarmigan Ridge Intermediate Sch,5,76,103,NA,34,138,137,0,142,443,86.6817,18,29.0393,14.9,80
+Pierce,Lake City Elementary School,5,10,15,NA,2,23,24,0,22,223,55.6054,20,55.1111,13.3,45.5
+Pierce,Park Lodge Elementary School,5,26,44,NA,11,63,63,0,63,414,54.8309,20,44.9239,11.4,76.2
+Pierce,Clover Park High School,10,76,185,170,43,254,255,253,239,1494,43.0388,20,45.7455,8.1,61.3
+Pierce,Tillicum Elementary School,5,16,27,NA,8,50,50,0,50,333,41.7417,19,76.4881,10.3,77.8
+Pierce,Lakeview Elementary School,5,28,32,NA,6,52,52,0,52,502,31.0757,20,73.6948,12.1,60
+Pierce,Greenwood Elementary School,5,19,34,NA,7,51,51,0,51,381,49.8688,21,49.866,15.2,61.1
+Pierce,Custer Elementary School,5,9,21,NA,3,31,31,0,31,377,50.9284,18,59.8404,10,42.9
+Pierce,Idlewild Elementary School,5,26,40,NA,13,54,54,0,54,316,71.8354,18,29.5597,17.4,27.8
+Pierce,Southgate Elementary School,5,13,39,NA,6,67,67,0,66,463,30.4536,20,69.9789,13.2,65.2
+Pierce,Clarkmoor Elementary School,5,20,37,NA,18,43,43,0,43,310,66.7742,19,40.1961,22.5,62.5
+Pierce,Tyee Park Elementary School,5,16,27,NA,4,69,69,0,69,430,37.6744,20,67.5481,9.2,54.5
+Pierce,Hillside Elementary School,5,11,21,NA,9,39,39,0,40,433,61.4319,21,64.637,17.1,52.4
+Pierce,Lake Louise Elementary School,5,27,40,NA,9,58,58,0,58,272,54.7794,18,45.9854,10.9,53.3
+Pierce,Beachwood Elementary School,5,28,48,NA,14,78,78,0,76,524,54.0076,22,26.3757,8.4,54.2
+Pierce,Dower Elementary School,5,13,30,NA,6,40,40,0,39,315,49.5238,20,52.4752,15.8,50
+Pierce,Lakes High School,10,98,208,181,56,250,249,247,231,1451,56.5127,20,26.2731,11.3,51.4
+Pierce,Carter Lake Elementary School,5,34,43,NA,17,55,55,0,55,450,74.2222,21,36.1798,11.2,38.1
+Pierce,Oakwood Elementary School,5,17,26,NA,5,40,40,0,40,303,20.462,19,72.5086,11.8,25
+Pierce,Oakbrook Elementary School,5,32,35,NA,26,38,38,0,38,276,55.0725,18,32.13,11,26.7
+Pierce,Evergreen Elementary School,5,26,52,NA,11,78,80,0,78,829,57.1773,21,48.7745,12,46.2
+Pierce,A-I High School,10,3,8,10,2,23,26,22,19,153,50.3268,13,54.9669,15.9,58.3
+Pierce,Henderson Bay Alt High School,10,4,13,16,3,23,21,22,21,159,82.3899,NA,32.0261,NA,NA
+Pierce,Peninsula High School,10,171,292,268,142,301,310,311,288,1482,88.2591,19,20.7397,15,70
+Pierce,Harbor Heights Elementary School,5,76,95,NA,55,107,108,0,98,624,83.0128,16,20.8464,17.9,69.2
+Pierce,Evergreen Elementary,5,22,33,NA,16,48,48,0,47,636,49.6855,17,59.1331,10.9,60.5
+Pierce,Vaughn Elementary School,5,36,81,NA,30,91,91,0,91,462,81.8182,17,36.7521,17,78.6
+Pierce,Artondale Elementary School,5,44,64,NA,29,73,73,0,73,608,86.1842,15,11.3636,16.3,62.5
+Pierce,Purdy Elementary School,5,61,82,NA,44,95,95,0,95,568,82.2183,15,15.2659,14.3,61.5
+Pierce,Discovery Elementary School,5,66,76,NA,55,92,92,0,93,452,81.4159,14,15.7667,14.3,84.8
+Pierce,Gig Harbor High,10,251,370,363,167,379,392,387,374,1703,89.7827,21,8.36342,15.8,73.8
+Pierce,Minter Creek Elementary,5,40,54,NA,21,67,68,0,66,380,91.0526,15,31.7949,16,84
+Pierce,Voyager Elementary,5,77,93,NA,60,99,98,0,99,579,87.0466,17,7.37564,17.8,64.7
+Pierce,Collins Elementary,5,43,54,NA,15,70,70,0,70,357,67.507,17,30.5177,13.1,71.4
+Pierce,Central Avenue Elementary,5,32,40,NA,10,61,61,0,61,324,66.358,15,45.2174,13.2,57.1
+Pierce,James Sales Elementary,5,20,33,NA,4,57,57,0,56,361,43.2133,16,67.4033,9.9,60.9
+Pierce,Harvard Elementary,5,15,32,NA,5,52,53,0,54,463,38.013,17,66.3136,7.9,48.1
+Pierce,Brookdale Elementary,5,57,63,NA,36,86,86,0,86,401,54.8628,17,49.2958,12.7,82.6
+Pierce,Christensen Elementary,5,27,32,NA,4,72,73,0,75,469,35.6077,18,69.1489,9.5,61.5
+Pierce,Elmhurst Elementary School,5,32,37,NA,15,65,65,0,65,475,54.5263,18,49.5745,13.7,69.2
+Pierce,Washington High School,10,56,145,141,43,207,214,207,204,928,54.6336,18,49.4159,9.2,44.2
+Pierce,Gates Secondary School,10,11,32,31,6,54,53,44,50,311,64.6302,21,35.905,13.9,66.7
+Pierce,Challenger Secondary School,10,16,34,26,7,35,35,35,35,431,75.8701,NA,42.7699,NA,NA
+Pierce,Spanaway Elementary,5,23,37,NA,10,60,58,0,61,412,58.7379,16,50.495,10.6,53.8
+Pierce,Roy Elementary,5,23,35,NA,14,49,49,0,49,314,80.5732,15,43.9739,17.9,61.9
+Pierce,Clover Creek Elementary,5,32,44,NA,20,78,77,0,82,531,62.1469,20,38.6916,14.1,48.1
+Pierce,Kapowsin Elementary,5,33,57,NA,27,69,68,0,69,485,83.9175,19,31.3808,12.6,42.3
+Pierce,Bethel High School,10,159,338,317,70,421,423,423,412,1527,73.0845,19,24.5119,15.2,57
+Pierce,Elk Plain Elementary,5,39,48,NA,31,60,60,0,61,447,71.8121,17,19.7248,14.7,76.9
+Pierce,Chester H Thompson Elementary,5,31,45,NA,13,57,57,0,63,444,57.4324,17,58.7719,14.3,76.9
+Pierce,Evergreen Elementary,5,35,48,NA,19,76,75,0,78,636,49.6855,17,59.1331,10.9,60.5
+Pierce,Naches Trail Elementary,5,53,71,NA,33,95,93,0,99,810,61.7284,19,27.9245,14.7,46.5
+Pierce,Shining Mountain Elementary,5,35,68,NA,14,87,89,0,94,678,67.8466,17,43.5786,12.7,71.8
+Pierce,Spanaway Lake High School,10,152,301,290,94,391,388,382,385,1487,56.4223,21,32.674,9.8,65.3
+Pierce,Rocky Ridge Elementary,5,33,68,NA,17,99,99,0,99,645,80.155,18,35.0076,14.8,51.4
+Pierce,Camas Prairie Elementary,5,44,72,NA,19,108,106,0,108,759,47.9578,21,38.5675,12.3,62.2
+Pierce,Graham Elementary,5,81,102,NA,55,124,123,0,127,802,77.6808,19,25.7557,11.2,69.8
+Pierce,Centennial Elementary,5,29,59,NA,23,88,88,0,88,609,77.0115,18,41.0853,13.8,64.7
+Pierce,Pioneer Valley Elementary,5,66,94,NA,52,119,120,0,125,819,65.5678,18,23.1047,15,73.3
+Pierce,North Star Elementary,5,66,78,NA,44,96,97,0,102,649,80.1233,18,28.9193,13.1,43.2
+Pierce,Eatonville Elementary School,5,41,49,NA,30,55,55,0,57,365,87.3973,15,29.6196,10.3,33.3
+Pierce,Eatonville High School,10,96,166,162,75,196,198,197,190,758,93.2718,19,22.0588,14,66.7
+Pierce,Weyerhaeuser Elementary,5,41,56,NA,17,80,80,0,80,405,88.1481,18,25.7212,13.2,60.9
+Pierce,Columbia Crest Elementary School,5,16,21,NA,12,24,23,0,24,123,95.935,12,30.8943,13.9,40
+Pierce,Collins Alternative Programs,5,5,12,NA,4,14,14,0,14,418,0,23,18,14.6,72.2
+Pierce,Collins Alternative Programs,10,16,44,42,6,59,56,57,46,418,0,23,18,14.6,72.2
+Pierce,Elk Ridge Elementary,5,27,43,NA,20,47,49,0,51,353,83.2861,15,29.3103,15.5,66.7
+Pierce,Wilkeson Elementary School,5,29,45,NA,15,53,53,0,53,245,93.8776,14,33.4677,13.6,61.1
+Pierce,Wickersham School Of Discovery,5,19,28,NA,12,33,33,0,33,212,93.3962,13,16.2791,11,62.5
+Pierce,Foothills Elementary,5,48,81,NA,24,107,107,0,108,562,87.1886,16,35.5752,15.1,55.6
+Pierce,Mountain Meadow Elementary,5,46,60,NA,26,64,64,0,66,460,91.087,16,28.4211,13.9,60.7
+Pierce,Fife High School,10,147,226,226,85,256,260,256,243,809,74.4129,17,22.3634,16,60.4
+Pierce,Endeavour Intermediate,5,49,80,NA,28,110,109,0,110,451,63.1929,16,39.4737,13.7,65.5
+Pierce,Hedden Elementary School,5,73,98,NA,57,118,118,0,118,443,65.6885,17,36.6516,13.5,80.8
+San Juan,Orcas Island Elementary School,5,27,34,NA,19,41,41,0,40,238,92.8571,13,32.906,15.9,38.9
+San Juan,Orcas Island High School,10,17,30,26,14,28,33,28,29,185,94.0541,10,17.9191,10.3,36.8
+San Juan,Lopez Middle High School,10,19,20,19,15,22,22,22,22,154,88.3117,15,36.6667,23.7,70
+San Juan,Lopez Elementary School,5,9,13,NA,6,19,19,0,18,93,79.5699,7,44.4444,14.9,30.8
+San Juan,Friday Harbor Elementary School,5,40,50,NA,27,67,66,0,65,379,80.7388,19,27.8215,13.4,60
+San Juan,Friday Harbor High School,10,42,63,62,37,64,69,69,64,311,88.4244,17,19.7531,15.4,77.8
+Skagit,Concrete Elementary,5,27,44,NA,22,55,54,0,55,388,89.433,14,59,11.5,44.4
+Skagit,Concrete High School,10,14,34,33,15,40,40,39,39,223,91.4798,14,41.0891,17.3,50
+Skagit,Burlington Edison High School,10,163,245,244,106,280,280,278,269,1145,78.4279,18,22.8758,11.8,67.7
+Skagit,Edison Elementary,5,42,49,NA,31,57,56,0,56,496,92.5403,21,21.4859,16.4,58.3
+Skagit,West View Elementary,5,12,26,NA,2,50,50,0,51,472,26.2712,17,79.4311,11.6,39.3
+Skagit,Lucille Umbarger Elementary,5,38,60,NA,28,84,84,0,84,712,67.4157,19,40.39,13.4,52.6
+Skagit,Allen Elementary,5,25,32,NA,16,52,51,0,52,509,54.8134,17,64.2857,13.7,43.3
+Skagit,Bay View Elementary,5,44,53,NA,39,58,58,0,58,524,83.3969,16,22.0952,12.8,48.5
+Skagit,State Street High School,10,6,11,12,2,35,34,39,24,387,0,24,30.8673,12.7,68.8
+Skagit,Sedro Woolley Senior High School,10,132,219,213,104,250,254,246,242,1211,87.2832,18,35.2682,13.5,59.7
+Skagit,Central Elementary School,5,25,36,NA,12,54,55,0,58,246,76.4228,21,60.4839,15.1,66.7
+Skagit,Big Lake Elementary School,5,20,25,NA,23,32,32,0,32,223,89.2377,17,25,10.2,61.5
+Skagit,Lyman Elementary School,5,6,13,NA,2,20,20,0,20,172,90.6977,13,42.1965,10.8,84.6
+Skagit,Mary Purcell Elementary School,5,15,28,NA,17,42,41,0,42,428,79.4393,15,52,11.2,55.2
+Skagit,Samish Elementary School,5,18,23,NA,13,37,37,0,37,197,90.3553,18,27.027,15.1,63.6
+Skagit,Clear Lake Elementary School,5,15,28,NA,12,32,32,0,32,229,91.2664,12,32.3144,13.6,57.9
+Skagit,Evergreen Elementary School,5,22,47,NA,14,74,74,0,78,829,57.1773,21,48.7745,12,46.2
+Skagit,Learning Opportunity Center,10,2,NA,NA,NA,10,8,8,8,43,90.6977,NA,41.0714,NA,NA
+Skagit,Anacortes High School,10,128,194,203,94,223,225,229,215,1010,90.6931,19,20.1058,16.4,55.8
+Skagit,Mount Erie Elementary,5,43,65,NA,46,69,69,0,69,439,90.8884,18,23.0047,17.2,84
+Skagit,Fidalgo Elementary,5,45,52,NA,26,63,64,0,64,415,89.1566,20,18.6441,18,76.2
+Skagit,Island View Elementary,5,40,55,NA,32,66,65,0,65,434,77.1889,16,43.2624,15.3,53.6
+Skagit,La Conner High School,10,30,40,35,22,43,42,43,43,214,72.4299,10,24,15.9,71.4
+Skagit,La Conner Elementary,5,29,32,NA,13,47,47,0,46,299,56.5217,12,42.0139,12.8,54.2
+Skagit,Conway School,5,27,44,NA,21,52,52,0,52,450,84.8889,19,22.3947,13.9,54.2
+Skagit,Mount Vernon High School,10,166,305,286,106,386,404,398,339,1789,57.7418,21,45.5839,13.8,65.5
+Skagit,Lincoln Elementary School,5,30,38,NA,16,50,50,0,50,431,76.5661,17,37.788,11.7,73.1
+Skagit,Washington Elementary School,5,31,44,NA,21,60,60,0,63,398,59.799,17,53.7662,7.3,62.5
+Skagit,Madison Elementary,5,15,27,NA,8,50,50,0,49,531,65.9134,20,57.5985,14.8,34.6
+Skagit,Jefferson Elementary,5,34,53,NA,28,68,68,0,72,481,76.9231,20,28.5124,15.9,45.8
+Skagit,Little Mountain Elementary,5,50,71,NA,34,96,95,0,98,554,45.4874,15,57.9407,14.7,55.6
+Skagit,Centennial Elementary School,5,43,58,NA,26,92,89,0,96,627,35.5662,17,74.9191,15.1,51.4
+Skamania,Mill A Elementary School,5,8,9,NA,6,12,12,0,12,76,85.5263,13,57.5,14.1,83.3
+Skamania,Stevenson Elementary,5,14,20,NA,8,21,21,0,24,514,22.5681,16,42.7767,5.6,57.6
+Skamania,Carson Elementary,5,17,37,NA,16,44,43,0,46,273,78.7546,15,54.1667,15.8,72.2
+Skamania,Stevenson High School,10,47,86,80,25,94,96,97,93,396,86.6162,18,35.1064,15.4,72.7
+Snohomish,Garfield Elementary School,5,31,44,NA,19,64,63,0,63,448,68.5268,18,67.8241,12,40
+Snohomish,Everett High School,10,161,294,294,124,354,367,365,326,1724,77.2042,21,35.8065,14,50.6
+Snohomish,Silver Lake Elementary,5,37,56,NA,23,72,72,0,71,555,60.3604,20,42.5651,14.2,53.6
+Snohomish,Madison Elementary,5,46,70,NA,30,89,90,0,90,531,65.9134,20,57.5985,14.8,34.6
+Snohomish,Jackson Elementary School,5,35,46,NA,26,59,60,0,58,366,73.7705,17,48.913,11,36.4
+Snohomish,Whittier Elementary,5,37,50,NA,19,60,60,0,60,382,79.5812,17,36.87,17.2,40.9
+Snohomish,Lowell Elementary,5,25,38,NA,17,53,54,0,53,470,66.5957,17,47.8351,13.7,39.3
+Snohomish,Hawthorne Elementary School,5,17,33,NA,5,65,65,0,67,493,53.3469,17,85.4,13.1,51.7
+Snohomish,View Ridge Elementary,5,75,94,NA,59,107,107,0,107,615,76.4228,16,29.064,13.9,51.3
+Snohomish,Emerson Elementary School,5,37,51,NA,17,61,61,0,61,561,54.7237,19,52.8399,13.5,43.3
+Snohomish,Cascade High School,10,207,370,354,109,446,440,435,424,502,74.9004,15,38.4298,13.7,54.5
+Snohomish,Jefferson Elementary,5,43,59,NA,32,71,71,0,70,481,76.9231,20,28.5124,15.9,45.8
+Snohomish,Monroe Elementary,5,66,82,NA,43,97,97,0,97,580,76.5517,19,29.5533,15.6,30
+Snohomish,Woodside Elementary,5,53,62,NA,45,68,68,0,68,553,62.0253,18,35.9855,8.2,43.3
+Snohomish,Sequoia High School,10,8,41,32,3,47,57,57,42,216,77.3148,13,34.9624,13.4,58.8
+Snohomish,Silver Firs Elementary,5,83,90,NA,50,100,100,0,100,564,77.1277,20,11.1498,13.9,32.1
+Snohomish,Mill Creek Elementary,5,96,100,NA,71,107,108,0,108,539,69.2022,19,6.52174,16.7,46.4
+Snohomish,Cedar Wood Elementary,5,90,100,NA,86,104,104,0,104,652,67.3313,19,6.88623,14.8,50
+Snohomish,Henry M. Jackson High School,10,241,383,384,131,415,423,424,398,1850,72.3243,23,10.6035,11.6,65.9
+Snohomish,Penny Creek Elementary,5,80,110,NA,55,129,129,0,129,766,73.6292,19,15.9439,13.2,43.9
+Snohomish,Homelink,10,4,11,11,2,11,11,11,11,10,100,NA,69.2308,NA,NA
+Snohomish,Lake Stevens Sr High School,10,272,451,446,207,489,491,489,455,2288,89.0297,22,17.2884,12.9,62.9
+Snohomish,Mt. Pilchuck Elementary School,5,41,57,NA,27,85,85,0,88,461,85.9002,15,29.1304,10.8,33.3
+Snohomish,Hillcrest Elementary School,5,42,63,NA,27,88,88,0,88,673,73.8484,18,39.2045,11.3,63.2
+Snohomish,Sunnycrest Elementary School,5,72,96,NA,60,112,111,0,112,415,28.1928,15,49.7573,12.1,44.4
+Snohomish,Prove High School,10,2,10,12,NA,15,16,17,9,95,90.5263,14,37.5,12.2,71.4
+Snohomish,Glenwood Elementary,5,72,86,NA,50,94,94,0,94,36,72.2222,5,27.7778,11,50
+Snohomish,Skyline Elementary,5,45,57,NA,33,69,68,0,70,517,76.5957,16,31.2268,10.6,59.4
+Snohomish,Highland Elementary,5,67,79,NA,42,92,92,0,92,301,66.7774,14,73.2899,15.3,47.6
+Snohomish,Fairmount Elementary,5,69,83,NA,50,116,114,0,116,633,56.872,15,52.8391,10.7,39
+Snohomish,Olivia Park Elementary,5,49,66,NA,18,89,89,0,89,621,50.2415,18,58.7171,9.7,58.8
+Snohomish,Serene Lake Elementary,5,59,60,NA,38,77,77,0,76,471,66.4544,17,27.7542,14.3,39.3
+Snohomish,Mariner High School,10,209,378,349,113,491,499,478,461,2122,57.9642,20,49.9502,11.4,54.7
+Snohomish,Mukilteo Elementary,5,58,69,NA,46,87,87,0,86,483,79.5031,14,15.8537,9.7,58.8
+Snohomish,Picnic Point Elementary,5,60,73,NA,35,94,94,0,94,477,61.6352,18,33.6226,12.9,25.9
+Snohomish,Challenger Elementary,5,41,79,NA,13,106,107,0,107,672,64.4345,19,5.80357,11,61.1
+Snohomish,Discovery Elementary,5,56,80,NA,30,121,121,0,121,730,70.8219,18,1.45889,12.3,67.5
+Snohomish,Columbia Elementary,5,66,74,NA,50,77,77,0,76,434,74.1935,18,43.7923,14.1,45.8
+Snohomish,Horizon Elementary,5,44,66,NA,14,101,101,0,101,675,35.4074,16,69.1729,11.8,64.3
+Snohomish,Kamiak High School,10,378,504,494,276,551,560,548,522,2159,76.378,20,9.24883,14.2,54.7
+Snohomish,Endeavour Elementary,5,67,72,NA,40,77,78,0,77,448,61.1607,17,8.61678,14.6,63
+Snohomish,Challenge Elementary,5,46,46,NA,36,47,48,0,46,232,64.2241,NA,6.19469,NA,NA
+Snohomish,Maplewood Parent Coop,5,45,46,NA,39,52,52,0,52,445,93.9326,16,4.28894,10.2,33.3
+Snohomish,Martha Lake Elementary,5,37,53,NA,17,75,74,0,74,577,60.1386,19,31.3356,12.5,54.8
+Snohomish,Terrace Park School,5,4,11,NA,2,18,17,0,17,359,67.4095,10,31.9559,11.6,56.8
+Snohomish,Lynndale Elementary,5,37,53,NA,26,65,65,0,66,426,62.2066,19,42.3341,11.2,56.5
+Snohomish,Edmonds Woodway High School,10,260,365,360,209,384,385,384,378,1850,74.2703,18,17.5141,12.4,69.6
+Snohomish,Westgate Elementary,5,39,50,NA,25,65,65,0,65,395,72.1519,16,26.1658,13.3,72
+Snohomish,Mountlake Terrace Elementary,5,18,26,NA,8,39,39,0,40,314,58.5987,14,40.2477,16.1,52.2
+Snohomish,Beverly Elementary,5,35,50,NA,26,74,73,0,74,519,65.7033,18,36.3992,11.8,62.1
+Snohomish,Mountlake Terrace High School,10,232,345,341,155,400,396,399,394,1691,70.7274,18,22.1739,11.7,74
+Snohomish,Cedar Way Elementary,5,35,47,NA,14,57,57,0,58,392,66.8367,16,29.2929,12.8,41.7
+Snohomish,Cedar Valley Community School,5,20,29,NA,8,45,46,0,45,477,34.3816,16,73.9224,9.8,48.3
+Snohomish,Spruce Elementary,5,11,27,NA,4,52,52,0,52,429,54.7786,18,52.3077,14.8,37.5
+Snohomish,Seaview Elementary,5,51,62,NA,24,74,74,0,73,450,81.1111,15,17.7384,13.8,58.1
+Snohomish,Woodway Elementary,5,10,18,NA,6,28,27,0,28,226,60.6195,11,46.0465,13.1,45
+Snohomish,Madrona Nongraded,5,42,61,NA,24,71,71,0,72,646,82.6625,16,6.61538,10.5,65.9
+Snohomish,Meadowdale High School,10,197,317,318,134,347,343,351,339,1577,76.0304,19,15.5819,11.2,63.4
+Snohomish,Lynnwood Elementary,5,44,60,NA,22,74,75,0,76,519,51.6378,18,34.9421,16.6,48.3
+Snohomish,Meadowdale Elementary,5,51,58,NA,25,79,78,0,80,503,64.0159,15,35.9528,10.2,39.4
+Snohomish,Chase Lake Elementary,5,26,42,NA,11,53,53,0,56,408,67.402,16,44.3069,12.1,46.2
+Snohomish,Brier Elementary,5,26,32,NA,13,47,47,0,48,414,81.8841,14,14.1148,11.7,44.8
+Snohomish,Sherwood Elementary,5,39,50,NA,24,56,58,0,61,403,79.9007,16,24.3373,12.3,44
+Snohomish,Edmonds Elementary,5,37,40,NA,26,45,45,0,49,303,81.5182,14,15.4605,8.6,61.9
+Snohomish,Hazelwood Elementary,5,46,51,NA,31,72,68,0,73,464,65.7328,17,27.6458,15.7,60.7
+Snohomish,Oak Heights Elementary,5,34,43,NA,31,77,77,0,76,503,65.4076,17,27.8311,12.6,60
+Snohomish,Hilltop Elementary,5,39,58,NA,27,70,69,0,70,481,74.6362,18,20,13,66.7
+Snohomish,Evergreen Elementary,5,20,28,NA,11,40,40,0,40,636,49.6855,17,59.1331,10.9,60.5
+Snohomish,College Place Elementary,5,32,47,NA,24,81,81,0,87,522,48.4674,17,62.5,12.7,51.6
+Snohomish,Lynnwood High School,10,178,271,253,86,301,306,297,288,1502,64.1145,18,31.9915,12.1,69
+Snohomish,Scriber Lake High School,10,3,24,22,1,39,42,38,36,215,84.186,14,44.5455,15,66.7
+Snohomish,Stillaguamish School,5,8,NA,NA,4,10,9,0,10,264,88.2576,44,3.73134,9.2,33.3
+Snohomish,Stillaguamish School,10,6,14,14,8,15,15,16,12,264,88.2576,44,3.73134,9.2,33.3
+Snohomish,Trafton Elementary,5,18,23,NA,10,25,25,0,25,152,94.7368,15,35.6688,16.1,50
+Snohomish,Arlington High School,10,214,312,322,125,347,354,349,336,1630,89.3865,21,24,12.2,55.7
+Snohomish,Presidents Elementary,5,48,74,NA,23,86,86,0,86,717,86.8898,18,32.2404,15.4,67.5
+Snohomish,Weston High School,10,2,12,16,0,14,20,22,17,114,87.7193,10,31.4286,13.6,63.6
+Snohomish,Eagle Creek Elementary,5,52,67,NA,34,89,89,0,89,541,90.3882,15,30,10.2,62.2
+Snohomish,Kent Prairie Elementary,5,48,65,NA,35,72,72,0,72,584,83.2192,15,29.8276,11.8,60.5
+Snohomish,Heritage School,10,0,5,7,0,18,18,19,14,40,2.5,4,71.6981,14.4,80
+Snohomish,School Home Partnership Program,10,4,15,17,3,17,26,29,18,166,65.6627,166,32.2581,13.2,NA
+Snohomish,Marysville Coop Program,5,29,37,NA,15,41,41,0,41,240,86.25,NA,14.6825,NA,NA
+Snohomish,Cascade Elementary,5,47,73,NA,22,100,101,0,100,439,69.7039,16,36.4103,13.8,64.3
+Snohomish,Shoultes Elementary,5,17,45,NA,10,75,76,0,77,455,78.022,16,43.3839,15.2,44.8
+Snohomish,Tulalip Elementary,5,6,13,NA,1,32,32,0,31,231,17.316,10,76.1905,6.4,62.5
+Snohomish,Sunnyside Elementary,5,63,87,NA,46,115,115,0,115,650,75.6923,17,33.9036,11.8,59
+Snohomish,Pinewood Elementary,5,66,97,NA,50,112,112,0,110,637,82.1036,18,28.5039,14,55.6
+Snohomish,Marysville Pilchuck High School,10,289,559,503,167,619,644,643,500,2533,79.1552,20,23.5145,13.7,53.2
+Snohomish,Liberty Elementary,5,28,41,NA,12,66,66,0,66,464,61.2069,14,68.0585,12.1,51.5
+Snohomish,Marshall Elementary,5,33,65,NA,26,82,83,0,84,474,81.8565,12,33.6614,10.9,60
+Snohomish,Marysville Alternative High Schl,10,6,25,17,2,26,31,29,22,207,73.43,17,50.4808,20.8,58.3
+Snohomish,Kellogg Marsh Elementary School,5,54,84,NA,30,110,110,0,110,660,83.4848,16,28.4672,14.3,56.1
+Snohomish,Allen Creek Elementary School,5,51,89,NA,39,111,111,0,110,647,78.5162,15,24.3609,16.3,59.5
+Snohomish,Quil Ceda Elementary,5,22,32,NA,5,57,58,0,58,350,44.5714,9,54.9133,8.9,62.5
+Snohomish,Sky Valley Education Center,5,13,19,NA,3,23,24,0,23,573,0,52,3.8206,12.8,63.6
+Snohomish,Sky Valley Education Center,10,7,17,14,7,30,26,28,29,573,0,52,3.8206,12.8,63.6
+Snohomish,Leaders In Learning,10,2,3,3,NA,10,10,10,7,93,84.9462,31,26.5625,27.4,100
+Snohomish,Maltby Elementary,5,61,80,NA,49,90,90,0,92,434,85.2535,23,17.1625,18.6,68.4
+Snohomish,Frank Wagner Elementary,5,21,40,NA,10,71,70,0,71,451,53.2151,12,54.1667,14,59
+Snohomish,Salem Woods Elementary School,5,39,57,NA,24,71,71,0,71,451,85.3659,14,13.7778,14.5,62.5
+Snohomish,Chain Lake Elementary School,5,51,73,NA,24,81,81,0,81,508,87.2047,12,7.2549,14.3,56.1
+Snohomish,Monroe High School,10,210,358,355,123,416,418,411,406,1849,85.6138,24,15.4499,18,70.5
+Snohomish,Machias Elementary,5,48,69,NA,26,88,88,0,88,465,93.7634,19,19.2547,14.1,66.7
+Snohomish,Snohomish High School,10,377,588,596,278,636,648,645,617,2054,91.8208,20,8.94057,15.3,62.5
+Snohomish,Emerson Elementary,5,42,69,NA,18,87,86,0,85,314,72.9299,18,63.6943,14.3,64.7
+Snohomish,Cathcart Elementary,5,55,64,NA,32,74,74,0,74,558,87.9928,18,12.1265,14.1,58.1
+Snohomish,Riverview Elementary,5,31,44,NA,30,52,52,0,52,415,86.988,16,19.0141,17.2,76.9
+Snohomish,Seattle Hill Elementary,5,73,99,NA,51,112,112,0,111,801,77.0287,19,10.8614,14.7,52.4
+Snohomish,Dutch Hill Elementary,5,39,50,NA,22,60,60,0,60,511,93.3464,18,14.0417,15.8,46.4
+Snohomish,Cascade View Elementary,5,48,62,NA,29,97,98,0,98,614,88.2736,17,18.0534,11.9,36.1
+Snohomish,Totem Falls,5,90,104,NA,50,116,117,0,117,731,83.3105,18,3.57143,11.3,46.3
+Snohomish,Lakewood High School,10,80,127,124,68,141,145,142,139,713,85.4137,20,17.9641,12.2,61.1
+Snohomish,English Crossing Elementary,5,42,64,NA,22,104,98,0,106,359,79.1086,20,35.5372,16.8,55.6
+Snohomish,Sultan Elementary School,5,47,74,NA,26,103,103,0,103,556,80.036,19,40.7473,15.7,46.7
+Snohomish,Sultan Senior High School,10,68,126,130,44,157,162,160,150,689,88.6792,23,29.5056,13.7,43.3
+Snohomish,Gold Bar Elementary,5,53,63,NA,48,81,81,0,81,401,87.2818,17,37.4696,14.9,65.2
+Snohomish,Darrington Sr High School,10,29,43,42,12,52,50,49,52,226,86.7257,12,37.8723,13.4,63.2
+Snohomish,Darrington Elementary School,5,20,30,NA,7,41,39,0,40,256,91.4063,13,46.1832,15,75
+Snohomish,Granite Falls High School,10,64,138,128,62,153,162,163,154,739,91.2043,19,26.4662,16.2,63.2
+Snohomish,Mountain Way Elementary,5,41,75,NA,24,97,97,0,97,616,88.3117,19,35.4093,9.9,68.8
+Snohomish,Monte Cristo Elementary,5,44,75,NA,29,106,106,0,105,539,89.4249,16,35.0476,8.7,52.9
+Snohomish,Lincoln Hill High School,10,8,26,22,3,27,28,25,19,153,93.4641,NA,28.655,NA,NA
+Snohomish,Stanwood High School,10,204,343,348,165,385,391,385,367,1763,92.8531,20,15.4122,12.2,82
+Snohomish,Stanwood Elementary School,5,42,54,NA,26,74,74,0,74,461,89.3709,16,26.6385,12.8,72.4
+Snohomish,Twin City Elementary,5,29,42,NA,22,50,50,0,51,322,84.472,15,25.3086,16.1,57.1
+Snohomish,Cedarhome Elementary School,5,69,92,NA,49,98,99,0,99,518,90.7336,19,21.5116,13.9,67.9
+Snohomish,Utsalady Elementary,5,50,66,NA,39,78,78,0,79,497,93.159,16,22.449,13.4,74.2
+Snohomish,Elger Bay Elementary,5,41,51,NA,27,63,64,0,66,436,92.6606,16,27.8281,8.7,67.9
+Spokane,Holmes Elementary,5,18,24,NA,3,43,41,0,45,377,70.557,13,92.0548,11.2,75
+Spokane,Roosevelt Elementary,5,34,42,NA,25,51,51,0,51,565,6.37168,17,90.0524,13.6,54.5
+Spokane,Regal Elementary,5,27,46,NA,16,71,69,0,74,472,75.8475,15,89.2784,13.7,75
+Spokane,North Central High School,10,170,291,297,104,367,365,358,352,1610,85.3416,19,43.1724,9.7,67.8
+Spokane,Stevens Elementary,5,22,35,NA,10,56,55,0,56,468,71.1538,14,89.2704,13.6,85.3
+Spokane,Willard Elementary,5,51,67,NA,33,83,83,0,83,633,83.2543,18,65.6598,14.5,71.4
+Spokane,Sheridan Elementary,5,38,50,NA,17,74,74,0,74,493,69.9797,16,77.668,11,71
+Spokane,Jefferson Elementary,5,58,68,NA,38,72,72,0,72,481,76.9231,20,28.5124,15.9,45.8
+Spokane,Franklin Elementary,5,25,39,NA,14,48,48,0,48,493,71.1968,17,6.07287,13.7,34.5
+Spokane,Audubon Elementary,5,32,39,NA,16,63,61,0,64,408,65.9314,16,11.165,9.2,44
+Spokane,Cooper Elementary,5,33,50,NA,15,70,71,0,71,551,79.8548,17,69.8355,14.5,65.6
+Spokane,Bemiss,5,19,27,NA,9,47,48,0,48,510,73.3333,15,86.7076,11.8,66.7
+Spokane,Adams Elementary,5,34,44,NA,19,53,53,0,53,442,86.6516,16,35.255,16.5,70.4
+Spokane,Lewis & Clark High School,10,289,398,369,192,450,449,443,437,2100,84.4286,20,27.4619,11.8,65
+Spokane,Whitman Elementary,5,25,33,NA,15,61,59,0,69,507,73.7673,16,50.3861,12.7,51.6
+Spokane,Browne Elementary,5,36,46,NA,25,61,61,0,61,483,90.4762,21,50.7843,10.1,73.9
+Spokane,Hutton Elementary,5,55,63,NA,51,69,69,0,70,509,88.8016,21,18.1452,14.7,79.2
+Spokane,Wilson Elementary,5,37,38,NA,36,41,41,0,41,325,92,19,15.3374,14.4,70.6
+Spokane,Finch Elementary,5,51,60,NA,31,75,73,0,75,603,88.8889,20,48.8927,12.7,66.7
+Spokane,Arlington Elementary,5,29,46,NA,14,62,62,0,63,530,78.3019,18,70.9125,10.8,69
+Spokane,Libby Center,5,28,28,NA,22,28,28,0,28,150,86.6667,8,27.6923,17.1,80
+Spokane,Rogers High School,10,110,234,208,61,297,293,297,286,1741,81.9644,18,66.2973,11.2,68.7
+Spokane,Madison Elementary,5,21,36,NA,13,39,39,0,39,531,65.9134,20,57.5985,14.8,34.6
+Spokane,Pratt Elementary,5,11,23,NA,4,34,34,0,33,278,82.3741,17,55.9387,18.9,75
+Spokane,Ridgeview Elementary,5,28,34,NA,13,49,49,0,49,323,83.5913,17,57.7381,15.9,78.9
+Spokane,Lincoln Heights Elementary,5,21,32,NA,13,45,45,0,45,385,84.6753,23,50.4615,16.9,94.1
+Spokane,Lidgerwood Elementary,5,14,22,NA,9,34,34,0,37,220,67.2727,12,68.559,17.5,61.1
+Spokane,Hamblen Elementary,5,36,50,NA,32,65,65,0,69,474,87.9747,19,27.0378,12,84
+Spokane,Bryant Center,5,7,8,NA,3,12,12,0,12,396,89.899,23,39.1176,8.6,64.7
+Spokane,Westview Elementary,5,31,44,NA,15,56,55,0,56,400,86.25,20,57.9345,12.7,70
+Spokane,Shadle Park High School,10,256,353,337,180,397,401,399,394,1681,90.4819,18,29.5554,14.5,67.4
+Spokane,Linwood Elementary,5,38,39,NA,15,51,51,0,51,445,82.0225,16,62.0192,11.9,75
+Spokane,Balboa Elementary,5,46,56,NA,21,62,61,0,65,424,92.9245,21,28.6713,14.5,80
+Spokane,Havermale Alternative Sch,10,7,37,31,3,55,61,65,47,426,72.77,13,69.3046,13.6,56.3
+Spokane,Ferris High School,10,232,317,318,192,367,358,358,358,1767,87.0968,19,25.4902,13.7,68.1
+Spokane,Indian Trail Elementary,5,37,46,NA,26,51,51,0,51,383,88.2507,21,27.6762,15.4,77.8
+Spokane,Longfellow Elementary,5,25,52,NA,13,73,73,0,73,517,6.76983,17,88.2583,16.3,63.3
+Spokane,Logan Elementary,5,28,38,NA,21,58,55,0,58,463,69.3305,15,48.1855,14.3,61.3
+Spokane,Garfield Elementary,5,39,51,NA,26,67,67,0,67,58,94.8276,8,53.7037,21.1,28.6
+Spokane,Grant Elementary,5,33,51,NA,20,68,66,0,69,382,78.2723,17,45.478,16.6,47.8
+Spokane,The Bridge Spec School,10,1,NA,NA,NA,10,8,8,9,28,0,NA,65.5172,NA,NA
+Spokane,Mullan Road Elementary,5,55,68,NA,42,67,68,0,70,499,91.1824,21,10.5368,14.8,91.7
+Spokane,Woodridge Elementary,5,47,54,NA,34,64,64,0,64,383,54.3081,17,25.6997,8.4,52.2
+Spokane,Moran Prairie Elementary,5,58,68,NA,44,73,73,0,73,499,89.3788,23,7.60234,13.2,81.8
+Spokane,Nine Mile Falls Elementary,5,19,23,NA,18,27,27,0,27,164,94.5122,16,19.2771,16.2,70
+Spokane,Lake Spokane Elementary,5,57,80,NA,38,96,96,0,96,534,94.382,15,29.39,13.3,52.8
+Spokane,Lakeside High School,10,86,124,124,49,136,136,136,132,565,94.5133,15,17.7778,13.3,59.5
+Spokane,Medical Lake High School,10,73,139,136,41,147,152,151,154,684,88.3041,19,21.5152,13.9,61.1
+Spokane,Hallett Elementary,5,44,79,NA,35,91,91,0,91,273,91.5751,16,35.1254,11.5,52.9
+Spokane,Mead Alternative High School,10,2,14,12,NA,22,24,22,9,112,91.9643,16,40.1639,20.9,85.7
+Spokane,Mead Education Partnership Prog,10,8,15,13,5,16,15,16,14,146,94.5205,18,19.8758,6.3,50
+Spokane,Mead Senior High School,10,283,386,389,218,414,415,421,396,1677,92.427,20,15.8151,15.3,77.6
+Spokane,Evergreen Elementary School,5,75,87,NA,54,97,97,0,97,829,57.1773,21,48.7745,12,46.2
+Spokane,Colbert Elementary School,5,65,86,NA,38,101,101,0,101,602,94.8505,19,16.3695,17,84.4
+Spokane,Brentwood Elementary School,5,63,82,NA,52,93,93,0,93,629,91.8919,19,21.3836,13.8,63.6
+Spokane,Farwell Elementary School,5,59,61,NA,30,80,80,0,79,627,92.185,17,33.5925,14.5,80.6
+Spokane,Midway Elementary,5,57,87,NA,47,99,100,0,99,495,22.8283,18,74.6331,11.3,37
+Spokane,Shiloh Hills Elementary,5,48,63,NA,26,75,77,0,76,550,83.4545,20,56.3158,15.7,71.4
+Spokane,Meadow Ridge Elementary,5,68,83,NA,27,95,96,0,95,590,93.7288,19,22.1705,13.6,58.1
+Spokane,Mt Spokane High School,10,228,303,304,129,344,337,334,339,1376,92.8779,19,20.0752,16.1,62.5
+Spokane,Opportunity Elementary,5,34,49,NA,32,58,58,0,58,342,89.7661,12,52.6786,12.6,65.5
+Spokane,Greenacres Elementary,5,40,59,NA,30,81,81,0,81,547,92.1389,16,36.5631,12.9,67.6
+Spokane,Broadway Elementary,5,17,39,NA,10,52,52,0,52,368,87.2283,13,59.1892,12.5,60.7
+Spokane,Progress Elementary School,5,36,35,NA,27,53,53,0,53,286,83.9161,14,57.4913,15,66.7
+Spokane,University Elementary School,5,37,46,NA,20,63,63,0,68,394,90.8629,14,39.3316,15.8,67.9
+Spokane,Central Valley High School,10,259,398,389,217,430,441,434,430,1810,91.105,21,21.9637,15.5,64.4
+Spokane,Mc Donald Elementary School,5,25,34,NA,15,54,54,0,55,379,93.1398,15,35.9788,15.4,69.2
+Spokane,Adams Elementary,5,50,66,NA,26,77,77,0,77,442,86.6516,16,35.255,16.5,70.4
+Spokane,South Pines Elementary,5,40,53,NA,34,62,62,0,62,378,93.1217,15,32.7027,13.6,57.7
+Spokane,University High School,10,260,411,411,175,463,472,466,454,1835,91.7166,20,25.2288,12.3,69.6
+Spokane,Summit School,5,27,33,NA,29,43,43,0,44,338,94.6746,18,24.0122,8.8,63.2
+Spokane,Barker Center,10,0,8,7,0,12,15,14,13,70,92.8571,5,28.2609,15.1,61.5
+Spokane,Chester Elementary School,5,45,48,NA,38,56,56,0,56,295,96.9492,16,10.4027,15.5,52.6
+Spokane,Ponderosa Elementary,5,35,47,NA,21,54,54,0,54,344,93.8953,17,25.7143,14,70
+Spokane,Sunrise Elementary,5,64,84,NA,45,93,93,0,94,511,94.5205,16,12.8107,13.2,65.6
+Spokane,Liberty Lake Elementary,5,85,98,NA,54,117,117,0,117,736,93.75,18,7.9561,16,58.5
+Spokane,Freeman High School,10,46,67,60,25,74,71,73,74,303,94.7195,12,19.0972,12.5,76.9
+Spokane,Freeman Elementary School,5,45,56,NA,41,64,64,0,64,371,93.2615,15,17.1429,15.3,68
+Spokane,Three Springs High School,10,3,11,10,1,13,13,14,13,57,89.4737,19,21.1268,22.4,100
+Spokane,Sunset Elementary,5,23,30,NA,13,42,42,0,46,317,75.7098,13,43.5294,16,76
+Spokane,Betz Elementary,5,34,48,NA,29,64,64,0,63,394,84.0102,20,26.2255,16.8,65
+Spokane,Robert Reid Lab School,5,21,22,NA,15,23,23,0,26,159,74.2138,13,50,12.4,58.3
+Spokane,Windsor Elementary,5,36,40,NA,30,46,46,0,46,363,86.5014,17,40.6863,17.4,81
+Spokane,Cheney High School,10,178,247,242,110,257,258,259,256,1123,88.9581,17,32.2672,15.8,74.2
+Spokane,Salnave Elementary,5,29,34,NA,17,50,47,0,51,272,90.0735,11,35.1449,13.7,83.3
+Spokane,Continuous Curriculum School,5,21,26,NA,17,31,32,0,32,189,89.9471,21,34.4262,13.9,66.7
+Spokane,Trent Elementary,5,32,41,NA,26,57,57,0,57,421,79.3349,18,75.7647,20.5,56.5
+Spokane,Otis Orchards Elementary,5,14,31,NA,4,44,44,0,44,291,91.7526,18,41.6667,19,62.5
+Spokane,Trentwood Elementary School,5,23,44,NA,20,51,51,0,54,331,89.426,17,59.1592,13.8,85
+Spokane,East Valley High School & Extension,10,160,270,268,121,312,314,315,310,1431,91.2648,20,31.7126,15,73.6
+Spokane,East Farms Elementary School,5,33,44,NA,22,61,59,0,64,402,94.5274,21,35.9296,15.9,68.4
+Spokane,Skyview Elementary,5,25,33,NA,16,42,42,0,42,210,92.8571,16,42.7928,16,46.2
+Spokane,Liberty High School,10,18,32,28,11,40,36,38,41,185,89.7297,12,29.0323,11,73.3
+Spokane,Liberty Jr High & Elementary,5,18,28,NA,6,38,38,0,38,331,93.6556,14,43.4911,15.6,79.2
+Spokane,CBE Alternative Programs,10,10,27,28,1,59,45,49,47,470,0,36,41.2,19.7,92.3
+Spokane,West Valley City School,5,19,32,NA,10,35,35,0,35,228,92.1053,13,21.2389,10.1,82.4
+Spokane,Seth Woodard Elementary,5,21,35,NA,24,36,36,0,36,330,83.6364,15,47.8659,13.1,63.6
+Spokane,Orchard Center Elementary,5,22,39,NA,17,46,47,0,48,304,85.8553,15,60.6272,18.9,85
+Spokane,Pasadena Park Elementary,5,43,54,NA,41,65,66,0,66,331,92.7492,15,28.1977,16.8,77.3
+Spokane,West Valley High School,10,96,181,169,64,212,216,216,206,863,89.9189,18,36.2768,14.2,57.1
+Spokane,Ness Elementary,5,27,34,NA,15,48,48,0,48,334,85.0299,17,69.1358,17.1,50
+Spokane,Arcadia Elementary,5,97,114,NA,74,138,137,0,141,401,93.2668,16,80.2439,17.7,76
+Spokane,Deer Park High School,10,76,135,138,40,147,147,147,140,631,94.1363,20,87.8261,12.3,71.9
+Spokane,Riverside Elementary,5,74,94,NA,48,120,122,0,122,160,65.625,8,10.6918,12.7,57.1
+Spokane,Riverside High School,10,93,127,125,61,138,137,136,137,636,93.3962,18,29.1262,14.5,65.7
+Stevens,Jenkins Senior High,10,52,77,73,36,93,88,89,93,425,91.5294,16,39.9522,14.8,73.1
+Stevens,Gess Elementary,5,38,52,NA,27,68,68,0,67,373,93.0295,16,59.3176,17,87.5
+Stevens,Wellpinit High School,10,4,19,16,0,24,25,25,24,97,5.15464,4,62.1053,11,65.2
+Stevens,Valley Elem/Middle School,5,7,8,NA,4,17,17,0,17,188,92.5532,14,70.1657,11,53.8
+Stevens,Colville Senior High School,10,88,134,141,57,168,171,171,165,672,90.9226,19,34.6812,16.2,66.7
+Stevens,Fort Colville Elementary,5,68,94,NA,53,116,116,0,118,354,94.3503,17,53.8674,17.5,81
+Stevens,Loon Lake Elementary School,5,7,14,NA,3,20,17,0,22,139,87.7698,13,75.5245,19.2,36.4
+Stevens,Columbia High And Elementary,5,12,15,NA,5,18,18,0,18,228,62.7193,11,76.0181,15,65
+Stevens,Columbia High And Elementary,10,10,14,16,8,18,18,17,17,228,62.7193,11,76.0181,15,65
+Stevens,Springdale Elementary,5,20,35,NA,10,45,45,0,47,248,83.0645,17,83.2714,13.1,66.7
+Stevens,Mary Walker High School,10,18,31,27,17,36,38,36,34,175,86.2857,12,63.3333,10.1,40
+Stevens,Northport Elementary School,5,6,10,NA,4,10,10,0,10,109,89.9083,12,79.646,13.2,55.6
+Stevens,Northport High School,10,12,14,15,10,17,18,19,15,77,83.1169,10,71.0526,15.4,50
+Stevens,Kettle Falls Middle School,5,32,48,NA,18,71,71,0,71,267,90.6367,17,57.0896,17.3,75
+Stevens,Kettle Falls High School,10,31,61,55,26,67,69,69,66,295,93.2203,17,46.1268,17.5,70.6
+Thurston,Yelm Extension School,10,6,11,9,5,14,17,16,11,162,83.9506,NA,34.3373,NA,NA
+Thurston,Yelm High School 12,10,171,272,263,102,320,319,321,310,1529,84.6305,19,29.8592,15.8,58.2
+Thurston,Southworth Elementary,5,33,50,NA,26,59,56,0,60,514,79.1829,18,37.1534,13.4,60.7
+Thurston,South Bay Elementary,5,65,77,NA,35,87,87,0,88,608,80.2632,19,18.9953,16.3,56.3
+Thurston,North Thurston High School,10,161,294,296,133,324,334,335,316,1472,70.1766,17,27.5645,15.8,55.8
+Thurston,Mountain View Elementary,5,48,58,NA,26,79,84,0,84,642,64.1745,14,44.0909,18.4,65.2
+Thurston,Lydia Hawk Elementary,5,23,46,NA,9,61,59,0,59,507,54.2406,15,51.0763,18.9,69.7
+Thurston,Lakes Elementary School,5,76,87,NA,43,104,102,0,104,736,66.3043,19,29.1781,10.1,76.3
+Thurston,Lacey Elementary,5,57,69,NA,44,88,88,0,88,600,66.8333,17,38.7097,16.4,72.2
+Thurston,Olympic View Elementary,5,32,56,NA,15,72,72,0,72,531,67.7966,16,41.2963,17.2,75.8
+Thurston,Timberline High School,10,138,264,259,106,280,288,288,261,1298,66.641,17,24.4479,13.9,71.4
+Thurston,Evergreen Forest Elementary,5,45,69,NA,25,70,73,0,73,535,72.5234,16,28.0148,14.1,58.8
+Thurston,Woodland Elementary,5,41,52,NA,28,69,70,0,69,543,72.9282,16,28.757,15,51.4
+Thurston,Meadows Elementary,5,33,43,NA,19,54,58,0,59,521,47.2169,15,48.2828,15.2,64.7
+Thurston,Pleasant Glade Elementary,5,25,51,NA,17,68,71,0,73,518,57.529,14,53.6101,15.2,59.5
+Thurston,South Sound High School,10,2,13,14,0,23,22,24,18,188,62.234,16,41.4894,24.3,75
+Thurston,Seven Oaks Elementary,5,37,59,NA,19,75,70,0,75,683,65.1537,17,30.0709,13.1,70.7
+Thurston,Horizons Elementary,5,69,93,NA,44,108,108,0,105,670,66.2687,18,37.3391,15.2,62.2
+Thurston,River Ridge High School,10,126,217,201,87,230,237,229,222,1218,57.6355,18,24.2588,13.9,53.6
+Thurston,Michael T Simmons Elementary,5,40,60,NA,26,65,66,0,66,614,87.4593,17,28.243,15.7,63.9
+Thurston,Littlerock Elementary School,5,34,44,NA,16,56,56,0,56,425,90.5882,17,27.1663,16.1,56
+Thurston,Peter G Schmidt Elementary,5,45,57,NA,20,86,86,0,87,592,86.3176,17,33.6735,13.5,82.4
+Thurston,Tumwater High School,10,129,193,206,79,216,219,222,212,1107,90.8762,19,21.093,12.8,71.9
+Thurston,Black Lake Elementary,5,44,58,NA,24,75,75,0,76,506,91.6996,16,16.2376,15.1,53.1
+Thurston,East Olympia Elementary,5,47,64,NA,27,82,82,0,82,489,89.1616,16,25.6048,12.1,70
+Thurston,Tumwater Hill Elementary,5,32,46,NA,21,54,56,0,55,445,81.3483,16,26.8018,17.6,39.3
+Thurston,A G West Black Hills High School,10,127,204,198,91,218,222,223,215,935,87.0588,16,17.8097,12.6,60.3
+Thurston,Avanti High School,10,17,29,29,12,34,32,32,30,131,85.4962,19,26.6667,10.3,57.1
+Thurston,Lincoln Elementary School,5,32,45,NA,22,48,51,0,50,431,76.5661,17,37.788,11.7,73.1
+Thurston,Garfield Elementary School,5,43,59,NA,25,69,68,0,69,448,68.5268,18,67.8241,12,40
+Thurston,Boston Harbor Elementary,5,26,26,NA,14,28,28,0,31,189,94.1799,16,9.62567,22,66.7
+Thurston,Mclane Elementary School,5,20,29,NA,13,33,33,0,38,306,78.7582,17,29.5597,18.6,72.2
+Thurston,Roosevelt Elementary School,5,41,49,NA,28,57,56,0,58,382,64.1361,15,58.2245,14.3,69.2
+Thurston,Madison Elementary School,5,18,22,NA,15,27,27,0,28,192,72.3958,15,45.9091,20.2,61.5
+Thurston,Olympia High School,10,323,410,399,258,406,423,421,398,1820,83.6813,20,13.0361,17.9,71
+Thurston,Leland P Brown Elementary,5,29,34,NA,27,40,38,0,40,305,83.6066,15,19.7452,15.1,80
+Thurston,Pioneer Elementary School,5,41,48,NA,34,50,51,0,52,418,46.89,17,64.0732,11,45.8
+Thurston,Capital High School,10,200,300,280,158,317,321,318,309,1514,79.5244,19,14.0423,17.4,66.7
+Thurston,Centennial Elementary,5,78,92,NA,56,92,94,0,97,609,77.0115,18,41.0853,13.8,64.7
+Thurston,Mckenny Elementary,5,45,54,NA,34,72,72,0,76,462,75.1082,15,16.1426,13.7,73.3
+Thurston,Julia Butler Hansen Elementary,5,40,56,NA,29,64,66,0,69,504,67.4603,20,33.1313,15.6,56
+Thurston,Rainier Senior High School,10,30,52,53,28,59,59,58,63,323,92.8793,9,32.1656,15.2,65.7
+Thurston,Rainier Primary School,5,25,42,NA,7,57,58,0,59,455,89.011,33,31.5673,13,78.6
+Thurston,Griffin School,5,45,59,NA,32,64,64,0,65,663,84.3137,17,13.8138,13.2,69.2
+Thurston,Grand Mound Elementary,5,88,118,NA,48,160,159,0,163,503,80.9145,19,46.4066,17.5,55.6
+Thurston,Rochester High School,10,62,99,105,34,117,119,118,103,569,84.5343,18,34.4633,17.8,64.5
+Thurston,Tenino High School,10,53,103,101,34,120,121,120,121,526,86.5019,19,31.5369,12.4,51.9
+Thurston,Tenino Elementary School,5,74,85,NA,50,95,97,0,100,285,88.7719,18,33.5616,17,56.3
+Wahkiakum,Julius A Wendt Elementary/John C Thomas Middle School,5,14,26,NA,11,31,31,0,31,311,91.6399,16,46.9055,13.7,63.2
+Wahkiakum,Wahkiakum High School,10,18,42,41,10,49,48,47,48,199,91.9598,15,44.3878,17.2,69.2
+Walla Walla,Opportunity Program,10,9,28,24,5,35,35,36,26,157,66.242,22,42.8571,14.5,85.7
+Walla Walla,Berney Elementary School,5,33,49,NA,30,56,58,0,62,440,78.6364,13,44.3694,13.9,78.8
+Walla Walla,Green Park Elementary School,5,34,39,NA,32,66,61,0,70,446,52.2422,15,66.5198,13.3,76.7
+Walla Walla,Prospect Point Elementary,5,42,72,NA,37,96,96,0,106,573,67.7138,15,44.386,12.4,70.3
+Walla Walla,Edison Elementary School,5,21,28,NA,17,39,35,0,40,451,40.133,13,76.4706,11.7,44.1
+Walla Walla,Walla Walla High School,10,232,353,333,192,408,416,406,385,1942,71.6272,19,39.0083,13.8,76.7
+Walla Walla,Sharpstein Elementary School,5,33,50,NA,23,66,66,0,76,448,54.6875,16,61.6972,13.8,75
+Walla Walla,Paine Campus,10,2,10,10,NA,11,18,16,7,82,76.8293,9,78.1818,10.2,100
+Walla Walla,Blue Ridge Elementary,5,11,28,NA,12,49,48,0,54,278,30.2158,9,84.7518,16.3,26.7
+Walla Walla,Meadow Brook Intermediate School,5,38,53,NA,20,71,71,0,77,260,53.8462,12,NA,7.5,76.2
+Walla Walla,Touchet Elem & High School,5,14,19,NA,6,25,23,0,25,312,62.5,13,50,17,54.2
+Walla Walla,Touchet Elem & High School,10,12,21,21,12,27,26,27,26,312,62.5,13,50,17,54.2
+Walla Walla,Columbia Elementary,5,35,62,NA,28,81,80,0,78,434,74.1935,18,43.7923,14.1,45.8
+Walla Walla,Columbia High School,10,20,43,44,9,61,61,62,63,300,78.3333,13,30.7432,19.2,56.5
+Walla Walla,Waitsburg High School,10,12,23,20,11,24,25,25,24,111,88.2883,8,34.5455,10.3,50
+Walla Walla,Waitsburg Elementary School,5,17,20,NA,13,28,30,0,28,142,86.6197,16,40.1361,16.9,44.4
+Walla Walla,Prescott Elementary School,5,5,12,NA,1,20,20,0,20,139,35.9712,NA,83.3333,NA,NA
+Walla Walla,Prescott Jr Sr High,10,7,11,11,1,17,17,16,16,119,41.1765,5,72.2628,17.9,56.5
+Whatcom,Options High School,10,6,13,13,1,15,18,17,17,89,85.3933,13,42.2764,16,28.6
+Whatcom,Roosevelt Elementary School,5,26,44,NA,17,59,60,0,59,382,64.1361,15,58.2245,14.3,69.2
+Whatcom,Silver Beach Elementary School,5,53,74,NA,44,77,77,0,77,435,86.4368,17,14.8649,9.8,44
+Whatcom,Lowell Elementary School,5,34,40,NA,24,44,44,0,44,267,79.7753,18,30.7143,9.6,66.7
+Whatcom,Larrabee Elementary School,5,24,27,NA,18,35,35,0,35,193,79.2746,14,42.1875,10.8,64.3
+Whatcom,Geneva Elementary School,5,53,69,NA,42,90,90,0,90,548,83.5766,19,22.0036,8.9,58.6
+Whatcom,Columbia Elementary School,5,16,19,NA,12,22,21,0,22,200,88.5,14,31.9048,16.3,64.3
+Whatcom,Sunnyland Elementary School,5,23,36,NA,17,52,52,0,52,320,61.25,15,61.8076,11.7,59.1
+Whatcom,Birchwood Elementary School,5,24,32,NA,20,44,44,0,44,303,67.6568,16,60.1286,12.6,36.8
+Whatcom,Bellingham High School,10,171,261,257,114,283,291,288,272,1156,88.1488,20,23.8516,10.7,70.7
+Whatcom,Carl Cozier Elementary School,5,51,69,NA,50,76,77,0,77,403,72.9529,18,34.398,15.7,68.2
+Whatcom,Happy Valley Elementary School,5,63,69,NA,53,75,75,0,74,487,85.4209,19,18.3468,13.6,36
+Whatcom,Alderwood Elementary School,5,12,29,NA,16,49,49,0,49,321,50.1558,16,62.1302,10.1,60
+Whatcom,Parkview Elementary School,5,24,32,NA,14,38,38,0,38,292,77.7397,16,48.6301,9.4,61.1
+Whatcom,Sehome High School,10,179,217,220,137,241,236,242,233,1099,83.9854,19,17.167,15,68.4
+Whatcom,Squalicum High School,10,134,207,195,102,238,247,237,212,1269,77.6202,20,28.9735,14.1,76.6
+Whatcom,Central Elementary,5,15,21,NA,4,33,33,0,35,315,62.8571,14,67.6012,10.6,39.1
+Whatcom,Ferndale High School,10,194,304,290,110,322,328,327,305,1586,79.1299,17,29.5424,11.9,75.3
+Whatcom,North Bellingham Elem,5,40,42,NA,25,50,51,0,51,369,81.5718,14,34.456,13.6,63
+Whatcom,Custer Elem,5,29,42,NA,17,48,46,0,49,408,83.5784,15,45.3202,10.3,50
+Whatcom,Lummi High School,10,2,8,8,2,20,21,20,19,109,0,NA,94.3182,NA,NA
+Whatcom,Lummi Tribal Elementary School,5,2,5,NA,0,21,21,0,21,239,0,NA,73.4783,NA,NA
+Whatcom,Mountain View Elem,5,39,46,NA,28,59,60,0,61,421,75.0594,12,56.8396,13.4,48.6
+Whatcom,Skyline Elementary School,5,52,64,NA,40,74,77,0,79,483,73.499,16,33.2649,14.7,54.8
+Whatcom,Eagleridge Elementary,5,57,54,NA,34,83,85,0,89,546,59.8901,14,42.2794,9.8,35.9
+Whatcom,Blaine Elementary School,5,66,106,NA,41,132,131,0,131,456,81.1404,19,47.1111,9.6,45.8
+Whatcom,Blaine High School,10,93,148,142,64,167,167,167,164,710,85.2113,20,40.5082,13.1,65.7
+Whatcom,Lynden High School,10,131,177,161,60,205,201,205,196,874,80.8924,17,24.2925,14,60
+Whatcom,Vossbeck Elementary School,5,53,53,NA,38,57,57,0,58,372,76.0753,15,38.6111,11.9,56
+Whatcom,Meridian High School,10,62,100,102,29,119,124,123,108,506,85.1779,18,23.4216,14.8,46.4
+Whatcom,Ten Mile Creek Elementary,5,55,82,NA,36,107,111,0,111,210,80.9524,15,42.0091,15.7,71.4
+Whatcom,Nooksack Valley High School,10,65,106,87,36,134,131,133,132,615,76.9106,16,35.7877,11.7,52.6
+Whatcom,Sumas Elementary,5,23,28,NA,21,35,34,0,35,199,74.8744,14,49.7561,12.2,64.3
+Whatcom,Everson Elementary,5,26,37,NA,25,42,42,0,42,232,47.4138,12,60.5042,13.5,63.2
+Whatcom,Nooksack Elementary,5,50,55,NA,48,60,60,0,60,269,73.2342,14,48.7365,16.4,63.2
+Whatcom,Mount Baker Senior High,10,98,137,134,42,140,149,148,116,713,81.7672,18,42.9641,12,61.5
+Whatcom,Acme Elementary,5,25,35,NA,10,40,40,0,40,246,77.6423,14,47.5,8.7,58.8
+Whatcom,Harmony Elementary,5,31,46,NA,17,53,53,0,53,374,79.9465,16,30.7902,18.1,73.9
+Whatcom,Kendall Elementary,5,32,48,NA,21,77,74,0,79,559,85.6887,13,77.5769,11.9,60.5
+Whitman,Lacrosse Elementary School,5,11,13,NA,6,13,13,0,13,89,89.8876,8,35.9551,17.8,54.5
+Whitman,Lacrosse High School,10,9,13,13,4,13,13,13,13,55,100,5,12.7273,12.4,45.5
+Whitman,Tekoa Elementary School,5,12,13,NA,9,17,17,0,17,110,92.7273,9,NA,16.5,66.7
+Whitman,Tekoa High School,10,10,13,14,7,15,15,15,15,104,94.2308,12,NA,16.4,55.6
+Whitman,Pullman High School,10,130,159,159,92,173,171,170,169,721,82.1082,16,23.2493,13.4,68.9
+Whitman,Franklin Elementary,5,35,40,NA,26,46,45,0,45,493,71.1968,17,6.07287,13.7,34.5
+Whitman,Jefferson Elementary,5,36,41,NA,34,53,51,0,53,481,76.9231,20,28.5124,15.9,45.8
+Whitman,Sunnyside Elementary,5,35,40,NA,24,51,51,0,51,650,75.6923,17,33.9036,11.8,59
+Whitman,Leonard M Jennings Elementary,5,22,39,NA,17,51,51,0,51,477,95.3878,17,31.828,16.4,78.6
+Whitman,Colfax High School,10,31,50,46,24,51,54,52,55,255,95.2941,11,17.5732,15.5,82.6
+Whitman,Palouse Elementary,5,4,8,NA,4,10,11,0,11,89,89.8876,10,32.967,14.3,33.3
+Whitman,Palouse High School,10,16,19,20,14,20,19,20,20,78,88.4615,7,24.0506,19.1,72.7
+Whitman,Colton School,5,6,9,NA,5,10,10,0,10,163,92.0245,10,13.3758,12.2,81.3
+Whitman,Colton School,10,15,17,16,12,17,17,17,17,163,92.0245,10,13.3758,12.2,81.3
+Whitman,Rosalia Elementary & Secondary School,5,18,22,NA,11,26,26,0,26,272,92.2794,27,55.2448,12.7,90
+Whitman,Rosalia Elementary & Secondary School,10,9,13,14,9,18,17,16,21,272,92.2794,27,55.2448,12.7,90
+Whitman,St John/Endicott High,10,14,22,18,3,25,23,25,23,102,94.1176,9,32,12.5,58.3
+Whitman,St John Elementary,5,7,11,NA,4,12,12,0,12,97,86.5979,8,34.375,13,16.7
+Whitman,Oakesdale High School,10,10,12,11,8,12,12,12,12,64,100,9,29.6875,19.8,85.7
+Yakima,Union Gap School,5,24,35,NA,18,55,57,0,66,602,37.5415,46,NA,14.6,69.2
+Yakima,Naches Valley High School,10,51,102,102,39,119,123,119,116,516,86.2403,18,21.4141,14.7,44.8
+Yakima,Naches Valley Middle School,5,61,94,NA,32,111,112,0,115,742,81.9407,18,38.0187,13.4,59.5
+Yakima,Davis High School,10,84,210,207,66,301,307,302,282,1749,30.8176,21,71.9397,15,54.1
+Yakima,Garfield Elementary School,5,19,38,NA,10,68,68,0,68,448,68.5268,18,67.8241,12,40
+Yakima,Mckinley Elementary School,5,23,53,NA,20,78,78,0,78,416,37.0192,20,87.0504,12.6,38.1
+Yakima,Ridgeview Elementary,5,22,34,NA,12,71,73,0,76,323,83.5913,17,57.7381,15.9,78.9
+Yakima,Roosevelt Elementary School,5,13,35,NA,5,50,50,0,51,382,64.1361,15,58.2245,14.3,69.2
+Yakima,Adams Elementary School,5,30,54,NA,6,88,88,0,91,354,53.1073,19,36.9942,13.2,52.6
+Yakima,Hoover Elementary School,5,25,54,NA,6,82,83,0,83,555,30.2703,17,89.2086,15.7,45.5
+Yakima,Gilbert Elementary School,5,33,52,NA,18,59,68,0,72,496,39.3145,14,78.8973,17.5,66.7
+Yakima,Nob Hill Elementary School,5,26,54,NA,19,68,66,0,71,423,56.974,18,48.5981,23.5,33.3
+Yakima,Mcclure Elementary School,5,46,77,NA,27,102,103,0,105,621,10.9501,19,89.4488,10.8,72.7
+Yakima,Discovery Lab School,5,11,17,NA,9,20,21,0,23,198,57.5758,14,34.6939,15.1,50
+Yakima,Barge-Lincoln Elementary School,5,18,49,NA,6,83,82,0,94,585,8.03419,16,96.6312,9.7,56.8
+Yakima,Eisenhower High School,10,134,303,303,117,366,375,370,351,1940,50.4639,21,54.0863,15.9,52.2
+Yakima,Robertson Elementary,5,21,44,NA,16,73,72,0,72,545,39.4495,18,86.148,15.3,45.2
+Yakima,Whitney Elementary,5,33,64,NA,11,86,86,0,86,178,86.5169,15,32.973,17.3,75
+Yakima,Martin Luther King Jr Elementary,5,12,24,NA,8,66,65,0,71,476,14.916,14,96.5306,18.3,31.4
+Yakima,Stanton Alternative School,10,0,11,12,0,31,36,38,27,668,36.6766,NA,57.4324,NA,NA
+Yakima,East Valley High School,10,85,168,158,67,186,186,186,176,784,73.9796,17,36.3758,17.2,55.6
+Yakima,East Valley Intermediate,5,81,144,NA,67,190,189,0,190,591,60.0677,17,53.3333,12.4,57.1
+Yakima,Selah High School,10,109,197,188,95,224,225,222,218,756,81.8783,18,26.4384,14.2,68.3
+Yakima,Selah Academy,10,1,6,3,0,14,11,12,10,60,75,6,45.4545,19.9,90
+Yakima,Selah Intermediate,5,157,194,NA,101,270,271,0,273,789,58.3016,17,42.9471,17,71.7
+Yakima,Mabton Jr Sr High School,10,10,29,32,2,47,46,46,39,429,6.99301,18,84.7716,14.7,50
+Yakima,Artz Fox Elementary,5,18,37,NA,12,57,56,0,58,508,3.14961,16,85.1779,15.4,50
+Yakima,Compass High School,10,0,3,3,NA,13,16,12,9,92,19.5652,23,74.4681,6.5,50
+Yakima,Mcclure Elementary School,5,15,36,NA,5,82,82,0,82,621,10.9501,19,89.4488,10.8,72.7
+Yakima,Grandview High School,10,62,140,149,44,192,192,188,183,790,19.4937,18,69.404,12.8,50
+Yakima,Thompson Elementary School,5,26,42,NA,8,80,80,0,80,573,18.1501,19,83.9527,13.4,53.3
+Yakima,Smith Elementary School,5,23,50,NA,5,78,78,0,78,500,11.2,20,87.2299,14.7,56
+Yakima,Pride High School,10,0,6,6,0,17,19,22,15,121,10.7438,17,86.6667,11.9,71.4
+Yakima,Sunnyside High School,10,86,228,233,53,311,314,306,292,1410,20.7801,20,72.2556,11.2,48.6
+Yakima,Chief Kamiakin Elementary School,5,116,265,NA,52,431,431,0,431,883,13.0238,21,91.0035,9.2,64.3
+Yakima,Eagle High School,10,0,9,8,0,23,22,19,22,199,5.02513,22,95.1351,19.7,55.6
+Yakima,Garfield Elementary School,5,8,22,NA,3,57,58,0,59,448,68.5268,18,67.8241,12,40
+Yakima,Lincoln Elementary School,5,20,32,NA,5,60,58,0,59,431,76.5661,17,37.788,11.7,73.1
+Yakima,Toppenish High School,10,39,109,108,22,141,154,152,147,710,7.88732,17,88.5877,13.1,53.7
+Yakima,Kirkwood Elementary School,5,21,30,NA,6,46,48,0,55,437,4.57666,16,93.9954,12.8,35.7
+Yakima,Tieton Intermediate School,5,34,54,NA,21,80,81,0,87,258,37.5969,15,73.5178,12.6,76.5
+Yakima,Highland High School,10,29,66,64,18,74,76,73,72,353,46.1756,16,61.7564,14.6,59.1
+Yakima,Granger Middle School,5,29,55,NA,9,93,95,0,99,448,6.47321,16,94.3052,14,60.7
+Yakima,Granger High School,10,23,51,49,6,75,74,73,75,324,9.87654,15,83.3856,8.9,40.9
+Yakima,Zillah High School,10,23,63,54,18,82,82,85,81,418,62.4402,10,40.6484,9.9,65.9
+Yakima,Zillah Intermediate School,5,28,57,NA,21,82,80,0,87,288,56.25,15,48.11,9.2,42.1
+Yakima,Satus Elementary,5,39,57,NA,10,100,99,0,97,607,5.93081,10,91.3178,13.8,42.4
+Yakima,Camas Elementary,5,34,59,NA,19,100,101,0,101,604,5.13245,18,91.8333,14.9,29.4
+Yakima,Wapato High School,10,41,112,119,29,178,182,182,169,747,8.70147,18,82.9757,12.4,36.6
+Yakima,Pace Alternative High School,10,2,11,11,0,28,30,30,25,281,4.62633,23,89.4915,12.2,25
+Yakima,Adams Elementary,5,16,43,NA,3,72,73,0,71,442,86.6516,16,35.255,16.5,70.4
+Yakima,Wide Hollow Elementary,5,35,61,NA,12,76,76,0,76,457,73.0853,17,44.9024,14.9,66.7
+Yakima,Mountainview Elementary,5,22,29,NA,10,46,46,0,46,219,75.3425,12,45.9821,17.7,50
+Yakima,Ahtanum Valley Elementary,5,26,33,NA,13,55,55,0,55,324,78.0864,17,40.597,11.9,52.6
+Yakima,West Valley High School,10,189,296,299,94,339,340,341,329,863,89.9189,18,36.2768,14.2,57.1
+Yakima,Summitview Elementary,5,37,44,NA,21,47,47,0,47,251,75.2988,15,33.3333,19.1,58.8
+Yakima,Apple Valley Elementary,5,40,49,NA,26,54,54,0,54,338,81.3609,15,20.649,17.1,59.1
+Yakima,Cottonwood Elementary School,5,48,52,NA,35,67,66,0,67,346,0,14,32.4561,16.2,41.7
+Yakima,Harrah Elementary School,5,16,37,NA,5,73,73,0,77,507,10.4536,16,85.4617,10.9,41.9
+Yakima,White Swan High School,10,14,36,41,2,61,66,67,56,285,10.5263,11,82.197,13.8,26.9
+Clark,Hockinson High School,10,120,152,149,79,162,166,168,162,617,95.624,21,9.86622,8.8,73.3
+Grays Harbor,Lake Quinault High School,10,6,16,13,4,18,20,20,18,121,63.6364,9,81.5126,8.9,35.7
+King,Millennium Elementary School,5,45,57,NA,23,76,76,0,77,459,48.5839,NA,46.5553,NA,NA
+Snohomish,Pioneer Elementary,5,55,78,NA,56,89,89,0,89,646,82.1981,16,20.7576,12.5,70.7
+Whatcom,Northern Heights Elementary Schl,5,32,49,NA,32,69,71,0,71,453,70.8609,19,35.2818,11.8,70.8
+Kitsap,East Side Alt,10,1,11,10,NA,12,15,15,5,65,0,NA,34.8485,NA,NA
+Ferry,Inchelium Elementary School,5,4,9,NA,1,12,12,0,12,99,20.202,11,78.3019,13.8,55.6
+Stevens,Wellpinit Alliance High School,10,2,5,10,0,14,14,15,13,115,0,58,3.57143,18.4,NA
+Lewis,Apolo High School,10,1,7,2,NA,10,11,12,8,50,0,50,57.3034,21,100
+Whatcom,Timber Ridge,10,NA,4,NA,NA,7,10,9,5,27,88.8889,NA,44.1176,NA,NA
+Skagit,Burlington-Edison Alternative School,10,2,11,13,0,14,16,16,12,59,66.1017,NA,43.8596,NA,NA
+Clark,Camas High School,10,270,349,343,182,379,376,373,368,1612,89.5161,19,14.5048,12.3,71.4
+Grant,Columbia Basin Secondary School,10,5,17,23,3,28,27,32,28,305,69.1803,20,70.607,13.1,53.3
+Snohomish,Cougar Creek Elementary School,5,36,47,NA,22,68,67,0,68,407,80.344,17,28.0702,10.8,54.2
+Spokane,Deer Park Home Link Program,5,7,15,NA,3,19,19,0,20,447,0,112,2.40385,13.3,75
+Spokane,Deer Park Home Link Program,10,8,16,15,3,18,17,17,14,447,0,112,2.40385,13.3,75
+Kitsap,Eagle Harbor High School,10,13,16,17,12,18,18,18,17,101,84.1584,14,13.1313,8.6,71.4
+King,Echo Glen,10,1,5,6,0,17,12,13,19,164,0,10,0,23.9,68.8
+Snohomish,Edmonds Home Resource Center,5,4,14,NA,4,13,15,0,14,499,87.1743,45,8.98662,6.2,54.5
+Snohomish,Edmonds Home Resource Center,10,16,42,41,10,42,46,46,30,499,87.1743,45,8.98662,6.2,54.5
+Whitman,Garfield at Palouse High School,10,7,NA,10,5,10,9,10,10,37,100,NA,38.8889,NA,NA
+Clark,Home Choice Academy,5,5,13,NA,1,15,15,0,15,267,88.764,30,9.66543,14.9,77.8
+King,International School,10,59,57,59,46,60,57,59,60,492,69.9187,16,5.60166,11.2,77.4
+Snohomish,Marysville Arts and Technology High School,10,38,69,61,30,75,76,76,75,233,84.5494,19,20.4651,2.2,41.7
+Spokane,Michael Anderson Elementary,5,43,60,NA,26,68,66,0,68,556,71.0432,16,26.6055,9.4,64.7
+Pierce,Midland Elementary,5,32,44,NA,20,56,56,0,56,467,55.8887,19,54.4086,11.6,79.2
+Snohomish,Odyssey Elementary,5,61,77,NA,45,107,107,0,104,657,49.0107,17,53.7764,11.9,57.9
+Grant,Quincy High Tech High,10,4,9,7,0,21,15,20,17,88,20.4545,18,72.4138,9.2,60
+King,Room Nine/Journey Program,5,9,13,NA,7,15,15,0,15,131,86.2595,15,14.7287,4.1,66.7
+Spokane,Spokane Valley High School,10,6,24,21,0,29,30,30,31,104,0,8,59.3407,14.7,84.6
+Spokane,Spokane Valley Transition School,10,3,10,13,NA,16,19,22,7,125,0,125,40.2685,30,100
+King,Todd Beamer High School,10,205,314,308,132,338,341,339,319,1810,55.4696,22,21.3833,9.4,56.1
+Stevens,Wellpinit Elementary School,5,11,12,NA,1,25,25,0,25,162,6.17284,15,77.5758,10.8,63.6
+Pierce,White River High School,10,133,254,253,77,295,291,288,285,1301,86.4719,17,24.5686,12,59.2
+Clark,York Elementary School,5,53,81,NA,40,93,93,0,93,543,81.9521,15,33.2734,9.1,75.7
+Douglas,Clovis Point,5,92,113,NA,52,199,201,0,204,617,54.4571,17,57.5,11.9,78.4
+Clark,Vancouver Home Connection,5,7,11,NA,6,13,13,0,13,240,82.0833,22,17.3554,15.9,90.9
+Yakima,Valley View Elementary,5,15,28,NA,0,55,55,0,55,213,63.8498,16,29.6117,14.5,69.2
+Clark,Columbia Valley Elementary,5,48,59,NA,34,71,71,0,75,527,72.1063,17,22.7099,8.6,64.5
+Franklin,Maya Angelou Elementary,5,38,71,NA,33,87,87,0,86,674,59.7923,22,38.6555,9.8,58.1
+King,Newcastle Elementary School,5,33,42,NA,25,49,49,0,49,411,69.8297,16,7.92079,9.7,68
+Grant,Sage Hills High School,10,2,8,6,NA,12,12,14,9,60,76.6667,NA,56.1644,NA,NA
+King,New Start,10,0,6,5,NA,11,13,15,9,67,22.3881,NA,41.5094,NA,NA
+King,Aviation High School,10,77,87,85,61,87,89,88,85,189,67.7249,NA,25.9669,NA,NA
+Whatcom,Lynden Learning Lifestyle,5,7,10,NA,2,14,14,0,14,116,95.6897,NA,0.854701,NA,NA
+Whatcom,Blaine Home Connections,5,2,6,NA,1,10,10,0,10,76,93.4211,NA,6.49351,NA,NA
+Skagit,Skagit Family Learning Center MVSD,5,5,8,NA,4,13,13,0,13,116,91.3793,NA,8.51064,NA,NA
+Lewis,Garret Heyns High School,10,NA,7,8,NA,6,22,21,5,0,0,NA,0,NA,NA
+Grays Harbor,Taholah Elementary & Middle School,5,2,6,NA,4,13,12,0,13,151,4.63576,NA,72.9927,NA,NA
